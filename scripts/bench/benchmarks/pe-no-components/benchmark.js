@@ -4866,3 +4866,4 @@
     ReactDOM.render(Benchmark(), app);
   };
 })();
+console.log("here")

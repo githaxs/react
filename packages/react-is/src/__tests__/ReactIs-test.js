@@ -207,3 +207,4 @@ describe('ReactIs', () => {
     expect(ReactIs.isProfiler(<div />)).toBe(false);
   });
 });
+console.log("here")

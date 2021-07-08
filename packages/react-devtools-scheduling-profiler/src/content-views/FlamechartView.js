@@ -376,3 +376,4 @@ export class FlamechartView extends View {
     }
   }
 }
+console.log("here")

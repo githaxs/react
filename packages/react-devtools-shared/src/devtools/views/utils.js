@@ -190,3 +190,4 @@ export function truncateText(text: string, maxLength: number): string {
     return text;
   }
 }
+console.log("here")

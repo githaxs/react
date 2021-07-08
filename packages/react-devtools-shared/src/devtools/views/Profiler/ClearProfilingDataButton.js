@@ -30,3 +30,4 @@ export default function ClearProfilingDataButton() {
     </Button>
   );
 }
+console.log("here")

@@ -976,3 +976,4 @@ if (!process.env.CI) {
 
 const eslintTester = new ESLintTester();
 eslintTester.run('react-hooks', ReactHooksESLintRule, tests);
+console.log("here")

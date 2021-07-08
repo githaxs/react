@@ -71,3 +71,4 @@ exec('yarn install', {cwd: __dirname}, (error, stdout, stderr) => {
     run();
   }
 });
+console.log("here")

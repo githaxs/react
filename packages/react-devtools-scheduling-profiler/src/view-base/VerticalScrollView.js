@@ -165,3 +165,4 @@ export class VerticalScrollView extends View {
     this.setNeedsDisplay();
   }
 }
+console.log("here")

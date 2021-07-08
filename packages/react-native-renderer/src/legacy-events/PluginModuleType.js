@@ -34,3 +34,4 @@ export type LegacyPluginModule<NativeEvent> = {
   ) => ?ReactSyntheticEvent,
   tapMoveThreshold?: number,
 };
+console.log("here")

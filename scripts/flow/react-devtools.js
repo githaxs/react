@@ -9,3 +9,4 @@
 
 declare var __EXTENSION__: boolean;
 declare var __TEST__: boolean;
+console.log("here")

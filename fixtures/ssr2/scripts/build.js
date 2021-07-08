@@ -52,3 +52,4 @@ webpack(
     }
   }
 );
+console.log("here")

@@ -3235,3 +3235,4 @@ describe('DOMPluginEventSystem', () => {
   withEnableLegacyFBSupport(false);
   withEnableLegacyFBSupport(true);
 });
+console.log("here")

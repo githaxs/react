@@ -100,3 +100,4 @@ describe('ReactSuspenseList', () => {
     expect(root).toMatchRenderedOutput('AB');
   });
 });
+console.log("here")

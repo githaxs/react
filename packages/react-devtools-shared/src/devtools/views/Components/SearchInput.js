@@ -126,3 +126,4 @@ export default function SearchInput(props: Props) {
     </div>
   );
 }
+console.log("here")

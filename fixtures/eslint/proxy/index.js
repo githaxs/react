@@ -33,3 +33,4 @@ for (let key in build.rules) {
 }
 
 module.exports = {rules};
+console.log("here")

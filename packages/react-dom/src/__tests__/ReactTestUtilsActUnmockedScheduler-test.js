@@ -166,3 +166,4 @@ it('can handle cascading promises', async () => {
   expect(clearYields()).toEqual([0, 1, 2, 3, 4]);
   expect(container.innerHTML).toBe('5');
 });
+console.log("here")

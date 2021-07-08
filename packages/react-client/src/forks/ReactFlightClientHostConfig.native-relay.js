@@ -9,3 +9,4 @@
 
 export * from 'react-server-native-relay/src/ReactFlightNativeRelayClientHostConfig';
 export * from '../ReactFlightClientHostConfigNoStream';
+console.log("here")

@@ -1217,3 +1217,4 @@ export function setupIntersectionObserver(
     },
   };
 }
+console.log("here")

@@ -18,3 +18,4 @@ class PointerEvents extends React.Component {
 }
 
 export default PointerEvents;
+console.log("here")

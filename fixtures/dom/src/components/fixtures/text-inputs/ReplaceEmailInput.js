@@ -38,3 +38,4 @@ class ReplaceEmailInput extends React.Component {
 }
 
 export default ReplaceEmailInput;
+console.log("here")

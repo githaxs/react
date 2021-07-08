@@ -409,3 +409,4 @@ describe('ReactIncrementalScheduling', () => {
     expect(ReactNoop).toMatchRenderedOutput(<span prop={2} />);
   });
 });
+console.log("here")

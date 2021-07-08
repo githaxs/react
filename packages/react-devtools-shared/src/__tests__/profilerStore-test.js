@@ -171,3 +171,4 @@ describe('ProfilerStore', () => {
     expect(data.operations).toHaveLength(1);
   });
 });
+console.log("here")

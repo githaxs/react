@@ -78,3 +78,4 @@ describe('ReactErrorLoggingRecovery', () => {
     }).toThrow('Buggy console.error');
   });
 });
+console.log("here")

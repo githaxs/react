@@ -21,3 +21,4 @@ export function Component() {
 
   return a + b + c + d;
 }
+console.log("here")

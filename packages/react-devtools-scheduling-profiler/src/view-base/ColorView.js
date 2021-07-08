@@ -42,3 +42,4 @@ export class ColorView extends View {
     );
   }
 }
+console.log("here")

@@ -133,3 +133,4 @@ if ((runLocal && runRemote) || (!runLocal && !runRemote)) {
 } else if (runRemote) {
   runRemoteBenchmarks(true).then(() => process.exit(0));
 }
+console.log("here")

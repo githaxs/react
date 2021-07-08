@@ -394,3 +394,4 @@ export function unmountComponentAtNode(container: Container) {
     return false;
   }
 }
+console.log("here")

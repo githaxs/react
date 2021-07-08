@@ -111,3 +111,4 @@ describe('Component stack trace displaying', () => {
     }
   });
 });
+console.log("here")

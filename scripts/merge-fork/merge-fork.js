@@ -107,3 +107,4 @@ for (const {base: baseFilename, from, to} of getTransforms()) {
     console.error('' + mergeFileResult.stderr);
   }
 }
+console.log("here")

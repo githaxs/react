@@ -141,3 +141,4 @@ export default function ContextMenu({children, id}: Props) {
     }
   }
 }
+console.log("here")

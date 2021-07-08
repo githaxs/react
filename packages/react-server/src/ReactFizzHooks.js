@@ -522,3 +522,4 @@ export function setCurrentResponseState(
 ): void {
   currentResponseState = responseState;
 }
+console.log("here")

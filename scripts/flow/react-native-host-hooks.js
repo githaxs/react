@@ -219,3 +219,4 @@ declare module 'RTManager' {
 declare module '../shims/ReactFeatureFlags' {
   declare export var debugRenderPhaseSideEffects: boolean;
 }
+console.log("here")

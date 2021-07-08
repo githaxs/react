@@ -78,3 +78,4 @@ describe('ReactCompositeComponentDOMMinimalism', () => {
     expect(el.children[0].children.length).toBe(0);
   });
 });
+console.log("here")

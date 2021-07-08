@@ -271,3 +271,4 @@ function render(children: React$Element<any>, options?: Options): Destination {
 }
 
 export {render};
+console.log("here")

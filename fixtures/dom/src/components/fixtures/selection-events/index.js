@@ -17,3 +17,4 @@ export default function SelectionEvents() {
     </FixtureSet>
   );
 }
+console.log("here")

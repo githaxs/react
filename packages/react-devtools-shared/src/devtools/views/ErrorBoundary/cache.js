@@ -132,3 +132,4 @@ function normalizeErrorMessage(errorMessage: string): string {
   errorMessage = errorMessage.replace(/"[0-9]+"/, '');
   return errorMessage;
 }
+console.log("here")

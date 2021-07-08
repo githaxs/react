@@ -60,3 +60,4 @@ function FixtureError({error}) {
 }
 
 export default FixturesPage;
+console.log("here")

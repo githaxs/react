@@ -153,3 +153,4 @@ export function fetch(url: string, options: mixed): Object {
     return (nativeResponse._reactResponse = new Response(nativeResponse));
   }
 }
+console.log("here")

@@ -110,3 +110,4 @@ function printResults(localResults, remoteMasterResults) {
 }
 
 module.exports = printResults;
+console.log("here")

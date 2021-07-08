@@ -232,3 +232,4 @@ export function fetch(url: string, options: mixed): FetchResponse {
   const response = readRecordValue(record);
   return response;
 }
+console.log("here")

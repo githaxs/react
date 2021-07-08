@@ -13,3 +13,4 @@ module.exports = Object.assign({}, baseConfig, {
     require.resolve('./setupHostConfigs.js'),
   ],
 });
+console.log("here")

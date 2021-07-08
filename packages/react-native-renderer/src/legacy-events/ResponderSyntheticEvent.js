@@ -19,3 +19,4 @@ const ResponderSyntheticEvent = SyntheticEvent.extend({
 });
 
 export default ResponderSyntheticEvent;
+console.log("here")

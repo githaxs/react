@@ -89,3 +89,4 @@ export function normalizeWheel(event: WheelEvent): NormalizedWheelDelta {
 
   return {deltaX, deltaY};
 }
+console.log("here")

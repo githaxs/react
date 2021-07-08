@@ -33,3 +33,4 @@ export default function WorkplaceGroup() {
     </div>
   );
 }
+console.log("here")

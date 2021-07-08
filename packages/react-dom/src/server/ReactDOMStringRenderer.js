@@ -37,3 +37,4 @@ export function renderToStaticMarkup(element, options?: ServerOptions) {
     renderer.destroy();
   }
 }
+console.log("here")

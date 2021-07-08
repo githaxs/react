@@ -16,3 +16,4 @@
 export const enableHookNameParsing = false;
 export const enableProfilerChangedHookIndices = false;
 export const isInternalFacebookBuild = false;
+console.log("here")

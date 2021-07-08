@@ -37,3 +37,4 @@ export default function Post({post}) {
     </div>
   );
 }
+console.log("here")

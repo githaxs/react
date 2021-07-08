@@ -143,3 +143,4 @@ const DataResourceComponent = ({
   }
   return <CanvasPage profilerData={dataOrError} />;
 };
+console.log("here")

@@ -328,3 +328,4 @@ function transform(babel) {
 }
 
 module.exports = transform;
+console.log("here")

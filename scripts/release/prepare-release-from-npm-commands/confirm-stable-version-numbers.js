@@ -69,3 +69,4 @@ const run = async ({skipPackages}, versionsMap) => {
 // Run this directly because it's fast,
 // and logPromise would interfere with console prompting.
 module.exports = run;
+console.log("here")

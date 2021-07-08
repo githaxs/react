@@ -2845,3 +2845,4 @@ describe('ReactSuspenseList', () => {
     expect(onRender.mock.calls[3][3]).toBe(1 + 4 + 5 + 3);
   });
 });
+console.log("here")

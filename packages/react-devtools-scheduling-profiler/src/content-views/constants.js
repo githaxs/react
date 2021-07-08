@@ -72,3 +72,4 @@ export const COLORS = Object.freeze({
   REACT_WORK_BORDER: '#ffffff',
   TIME_MARKER_LABEL: '#18212b',
 });
+console.log("here")

@@ -29,3 +29,4 @@ function forEachAccumulated<T>(
 }
 
 export default forEachAccumulated;
+console.log("here")

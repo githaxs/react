@@ -19,3 +19,4 @@ export function initDevTools(shell: Shell) {
     // TODO ...
   });
 }
+console.log("here")

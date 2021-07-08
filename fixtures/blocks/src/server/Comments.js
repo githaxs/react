@@ -29,3 +29,4 @@ export default function Comments({postId}) {
     </>
   );
 }
+console.log("here")

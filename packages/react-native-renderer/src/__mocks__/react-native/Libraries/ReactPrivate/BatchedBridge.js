@@ -12,3 +12,4 @@ const BatchedBridge = {
 };
 
 module.exports = BatchedBridge;
+console.log("here")

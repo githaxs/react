@@ -58,3 +58,4 @@ const SafeLink = ({text, href}) => {
     </a>
   );
 };
+console.log("here")

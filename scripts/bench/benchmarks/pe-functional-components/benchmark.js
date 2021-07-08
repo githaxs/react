@@ -5100,3 +5100,4 @@
     ReactDOM.render(React.createElement(Benchmark, null), app);
   };
 })();
+console.log("here")

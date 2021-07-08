@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactNoopServer';
+console.log("here")

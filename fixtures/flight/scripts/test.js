@@ -49,3 +49,4 @@ if (
 }
 
 jest.run(argv);
+console.log("here")

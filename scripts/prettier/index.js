@@ -81,3 +81,4 @@ files.forEach(file => {
 if (didWarn || didError) {
   process.exit(1);
 }
+console.log("here")

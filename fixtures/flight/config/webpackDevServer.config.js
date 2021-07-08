@@ -131,3 +131,4 @@ module.exports = function(proxy, allowedHost) {
     },
   };
 };
+console.log("here")

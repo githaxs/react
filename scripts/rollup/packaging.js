@@ -222,3 +222,4 @@ module.exports = {
   getBundleOutputPath,
   prepareNpmPackages,
 };
+console.log("here")

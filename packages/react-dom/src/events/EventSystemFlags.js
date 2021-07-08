@@ -26,3 +26,4 @@ export const SHOULD_NOT_DEFER_CLICK_FOR_FB_SUPPORT_MODE =
 // We also don't want to defer during event replaying.
 export const SHOULD_NOT_PROCESS_POLYFILL_EVENT_PLUGINS =
   IS_EVENT_HANDLE_NON_MANAGED_NODE | IS_NON_DELEGATED | IS_CAPTURE_PHASE;
+console.log("here")

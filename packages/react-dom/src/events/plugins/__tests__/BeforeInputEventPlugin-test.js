@@ -846,3 +846,4 @@ describe('BeforeInputEventPlugin', () => {
     testContentEditableComponent(environments[3], scenarios);
   });
 });
+console.log("here")

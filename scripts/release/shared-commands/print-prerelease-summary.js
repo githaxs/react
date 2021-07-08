@@ -39,3 +39,4 @@ module.exports = ({cwd}, isStableRelease) => {
 
   console.log(message.replace(/\n +/g, '\n').trim());
 };
+console.log("here")

@@ -342,3 +342,4 @@ function addEventPoolingTo(EventConstructor) {
 }
 
 export default SyntheticEvent;
+console.log("here")

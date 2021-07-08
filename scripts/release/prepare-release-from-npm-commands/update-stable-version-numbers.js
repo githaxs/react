@@ -174,3 +174,4 @@ const run = async ({cwd, packages, version}, versionsMap) => {
 
 // Run this directly because logPromise would interfere with printing package dependencies.
 module.exports = run;
+console.log("here")

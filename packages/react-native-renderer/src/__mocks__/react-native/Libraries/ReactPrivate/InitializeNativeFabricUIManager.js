@@ -180,3 +180,4 @@ const RCTFabricUIManager = {
 };
 
 global.nativeFabricUIManager = RCTFabricUIManager;
+console.log("here")

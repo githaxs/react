@@ -15,3 +15,4 @@ class BabelClassWithFields extends React.Component {
     return this.props.children;
   }
 }
+console.log("here")

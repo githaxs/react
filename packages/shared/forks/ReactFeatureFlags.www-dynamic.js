@@ -59,3 +59,4 @@ export const disableSchedulerTimeoutInWorkLoop = __VARIANT__;
 export const enableLazyContextPropagation = __VARIANT__;
 export const enableSyncDefaultUpdates = __VARIANT__;
 export const allowConcurrentByDefault = true;
+console.log("here")

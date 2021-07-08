@@ -61,3 +61,4 @@ export function closeWithError(destination: Destination, error: mixed): void {
     destination.close();
   }
 }
+console.log("here")

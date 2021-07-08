@@ -63,3 +63,4 @@ export const buttonsType = {
   // pen eraser
   eraser: 32,
 };
+console.log("here")

@@ -235,3 +235,4 @@ describe('EventPluginRegistry', () => {
     );
   });
 });
+console.log("here")

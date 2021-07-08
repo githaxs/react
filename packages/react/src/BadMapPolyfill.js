@@ -21,3 +21,4 @@ if (__DEV__) {
     hasBadMapPolyfill = true;
   }
 }
+console.log("here")

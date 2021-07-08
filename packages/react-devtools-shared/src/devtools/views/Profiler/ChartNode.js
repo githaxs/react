@@ -77,3 +77,4 @@ export default function ChartNode({
     </g>
   );
 }
+console.log("here")

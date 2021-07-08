@@ -58,3 +58,4 @@ module.exports = async params => {
     theme`Checking out "next" from NPM {version ${params.version}}`
   );
 };
+console.log("here")

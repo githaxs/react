@@ -5,3 +5,4 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   module.exports = require('./cjs/react-server-dom-webpack-writer.browser.development.server.js');
 }
+console.log("here")

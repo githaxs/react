@@ -57,3 +57,4 @@ module.exports = {
   // eslint-ignore comments as part of the build.
   plugins: ['jest', 'no-for-of-loops', 'react', 'react-internal'],
 };
+console.log("here")

@@ -10,3 +10,4 @@
 'use strict';
 
 export * from './index.node';
+console.log("here")

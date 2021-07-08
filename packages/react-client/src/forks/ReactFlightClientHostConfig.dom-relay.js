@@ -9,3 +9,4 @@
 
 export * from 'react-server-dom-relay/src/ReactFlightDOMRelayClientHostConfig';
 export * from '../ReactFlightClientHostConfigNoStream';
+console.log("here")

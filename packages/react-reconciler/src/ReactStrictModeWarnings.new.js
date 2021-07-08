@@ -368,3 +368,4 @@ if (__DEV__) {
 }
 
 export default ReactStrictModeWarnings;
+console.log("here")

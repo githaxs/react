@@ -31,3 +31,4 @@ function isCustomComponent(tagName: string, props: Object) {
 }
 
 export default isCustomComponent;
+console.log("here")

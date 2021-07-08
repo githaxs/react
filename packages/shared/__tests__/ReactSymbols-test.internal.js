@@ -42,3 +42,4 @@ describe('ReactSymbols', () => {
     }
   });
 });
+console.log("here")

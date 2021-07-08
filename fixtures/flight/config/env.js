@@ -104,3 +104,4 @@ function getClientEnvironment(publicUrl) {
 }
 
 module.exports = getClientEnvironment;
+console.log("here")

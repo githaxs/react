@@ -1862,3 +1862,4 @@ export function writeClientRenderBoundaryInstruction(
   writeChunk(destination, formattedBoundaryID);
   return writeChunk(destination, clientRenderScript2);
 }
+console.log("here")

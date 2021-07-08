@@ -34,3 +34,4 @@ export default function HocBadges({element}: Props) {
     </div>
   );
 }
+console.log("here")

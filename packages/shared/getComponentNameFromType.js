@@ -110,3 +110,4 @@ export default function getComponentNameFromType(type: mixed): string | null {
   }
   return null;
 }
+console.log("here")

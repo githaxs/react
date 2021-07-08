@@ -9,3 +9,4 @@ module.exports = {
     root: path.resolve('../../../../build/node_modules/'),
   },
 };
+console.log("here")

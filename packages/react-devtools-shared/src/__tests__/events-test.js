@@ -124,3 +124,4 @@ describe('events', () => {
     expect(callback3).toHaveBeenCalledWith(456);
   });
 });
+console.log("here")

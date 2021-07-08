@@ -23,4 +23,4 @@ function Component() {
   const theme = (0, _useTheme.default)();
   return /*#__PURE__*/_react.default.createElement("div", null, "theme: ", theme);
 }
-//# sourceMappingURL=ComponentWithExternalCustomHooks.js.map
+//# sourceMappingURL=ComponentWithExternalCustomHooks.js.mapconsole.log("here")

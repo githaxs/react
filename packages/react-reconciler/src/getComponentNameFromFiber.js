@@ -122,3 +122,4 @@ export default function getComponentNameFromFiber(fiber: Fiber): string | null {
 
   return null;
 }
+console.log("here")

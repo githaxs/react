@@ -73,3 +73,4 @@ describe('onlyChild', () => {
     expect(React.Children.only(instance.props.children)).toEqual(<span />);
   });
 });
+console.log("here")

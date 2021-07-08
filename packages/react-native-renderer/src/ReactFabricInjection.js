@@ -27,3 +27,4 @@ setComponentTree(
 ResponderEventPlugin.injection.injectGlobalResponderHandler(
   ReactFabricGlobalResponderHandler,
 );
+console.log("here")

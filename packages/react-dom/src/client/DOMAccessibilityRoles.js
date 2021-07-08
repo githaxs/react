@@ -137,3 +137,4 @@ export function hasRole(element: Element, role: string): boolean {
 
   return role === getImplicitRole(element);
 }
+console.log("here")

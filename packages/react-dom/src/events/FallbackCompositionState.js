@@ -69,3 +69,4 @@ export function getText() {
   }
   return root.textContent;
 }
+console.log("here")

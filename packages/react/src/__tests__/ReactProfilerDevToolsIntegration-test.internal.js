@@ -170,3 +170,4 @@ describe('ReactProfiler DevTools integration', () => {
     expect(root).toMatchRenderedOutput('B');
   });
 });
+console.log("here")

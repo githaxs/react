@@ -39,3 +39,4 @@ class VersionPicker extends React.Component {
 }
 
 export default VersionPicker;
+console.log("here")

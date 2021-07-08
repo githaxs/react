@@ -69,3 +69,4 @@ function getNodeForCharacterOffset(root: Element, offset: number): ?Object {
 }
 
 export default getNodeForCharacterOffset;
+console.log("here")

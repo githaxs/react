@@ -29,3 +29,4 @@ if (appname) {
     await open(START_URL, {app: [appname, extargs]});
   })();
 }
+console.log("here")

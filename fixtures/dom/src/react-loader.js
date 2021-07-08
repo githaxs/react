@@ -117,3 +117,4 @@ export default function loadReact() {
 
   return request;
 }
+console.log("here")

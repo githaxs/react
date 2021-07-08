@@ -349,3 +349,4 @@ export function useHighlightNativeElement() {
     clearHighlightNativeElement,
   };
 }
+console.log("here")

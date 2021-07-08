@@ -244,3 +244,4 @@ describe('ReactTestRendererTraversal', () => {
     ).toBe(2);
   });
 });
+console.log("here")

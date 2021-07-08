@@ -70,3 +70,4 @@ export default function DebuggingSettings(_: {||}) {
     </div>
   );
 }
+console.log("here")

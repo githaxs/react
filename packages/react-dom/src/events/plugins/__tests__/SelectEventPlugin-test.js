@@ -196,3 +196,4 @@ describe('SelectEventPlugin', () => {
     expect(onSelect).toHaveBeenCalledTimes(1);
   });
 });
+console.log("here")

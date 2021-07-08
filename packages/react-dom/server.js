@@ -8,3 +8,4 @@
  */
 
 export * from './server.node';
+console.log("here")

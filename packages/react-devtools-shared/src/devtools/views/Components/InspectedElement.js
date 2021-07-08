@@ -282,3 +282,4 @@ export default function InspectedElementWrapper(_: Props) {
     </div>
   );
 }
+console.log("here")

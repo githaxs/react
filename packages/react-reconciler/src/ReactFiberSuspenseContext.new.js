@@ -81,3 +81,4 @@ export function pushSuspenseContext(
 export function popSuspenseContext(fiber: Fiber): void {
   pop(suspenseStackCursor, fiber);
 }
+console.log("here")

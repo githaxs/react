@@ -291,3 +291,4 @@ export function writeClientRenderBoundaryInstruction(
   writeChunk(destination, SUSPENSE_UPDATE_TO_CLIENT_RENDER);
   return writeChunk(destination, formatID(boundaryID));
 }
+console.log("here")

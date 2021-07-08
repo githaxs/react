@@ -7,3 +7,4 @@ System.config({
       '../../../../build/node_modules/scheduler/umd/schedule.development',
   },
 });
+console.log("here")

@@ -42,3 +42,4 @@ module.exports = {
     return require('./legacySendAccessibilityEvent');
   },
 };
+console.log("here")

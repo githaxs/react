@@ -13,3 +13,4 @@ const run = async () => {
 module.exports = async params => {
   return logPromise(run(params), 'Determining latest "next" release version');
 };
+console.log("here")

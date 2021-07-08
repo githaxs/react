@@ -78,3 +78,4 @@ export function restoreStateIfNeeded() {
     }
   }
 }
+console.log("here")

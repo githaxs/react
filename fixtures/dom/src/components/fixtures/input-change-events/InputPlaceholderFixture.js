@@ -56,3 +56,4 @@ class InputPlaceholderFixture extends React.Component {
 }
 
 export default InputPlaceholderFixture;
+console.log("here")

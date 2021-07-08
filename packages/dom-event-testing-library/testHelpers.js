@@ -33,3 +33,4 @@ export function testWithPointerType(message, testFn) {
     testFn(pointerType);
   });
 }
+console.log("here")

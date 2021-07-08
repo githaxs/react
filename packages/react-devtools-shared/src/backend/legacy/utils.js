@@ -44,3 +44,4 @@ export function forceUpdate(instance: InternalInstance): void {
     instance.updater.enqueueForceUpdate(this, () => {}, 'forceUpdate');
   }
 }
+console.log("here")

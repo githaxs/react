@@ -52,3 +52,4 @@ export function closeWithError(destination: Destination, error: mixed): void {
   destination.fatal = true;
   destination.error = error;
 }
+console.log("here")

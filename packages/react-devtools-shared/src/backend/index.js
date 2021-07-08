@@ -120,3 +120,4 @@ export function initBackend(
     subs.forEach(fn => fn());
   };
 }
+console.log("here")

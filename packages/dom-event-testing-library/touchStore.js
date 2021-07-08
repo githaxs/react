@@ -80,3 +80,4 @@ export function getTargetTouches(target) {
 export function clear() {
   activeTouches.clear();
 }
+console.log("here")

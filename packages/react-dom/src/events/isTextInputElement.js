@@ -43,3 +43,4 @@ function isTextInputElement(elem: ?HTMLElement): boolean {
 }
 
 export default isTextInputElement;
+console.log("here")

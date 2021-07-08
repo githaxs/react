@@ -53,3 +53,4 @@ export default function LoadingAnimation({className = ''}: Props) {
     </svg>
   );
 }
+console.log("here")

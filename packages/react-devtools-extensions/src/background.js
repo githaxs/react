@@ -128,3 +128,4 @@ chrome.runtime.onMessage.addListener((request, sender) => {
     }
   }
 });
+console.log("here")

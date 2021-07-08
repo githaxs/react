@@ -47,3 +47,4 @@ function ListItem({item, removeItem, toggleItem}: Props) {
 }
 
 export default memo<Props>(ListItem);
+console.log("here")

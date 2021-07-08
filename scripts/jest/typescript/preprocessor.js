@@ -104,3 +104,4 @@ function compile(content, contentFilename) {
 module.exports = {
   compile: compile,
 };
+console.log("here")

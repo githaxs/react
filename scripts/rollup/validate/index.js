@@ -106,3 +106,4 @@ lintEverything().catch(error => {
   process.exitCode = 1;
   console.error(error);
 });
+console.log("here")

@@ -98,3 +98,4 @@ export function getStackByFiberInDevAndProd(
     return '\nError generating stack: ' + x.message + '\n' + x.stack;
   }
 }
+console.log("here")

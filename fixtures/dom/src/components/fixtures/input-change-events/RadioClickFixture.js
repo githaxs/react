@@ -46,3 +46,4 @@ class RadioClickFixture extends React.Component {
 }
 
 export default RadioClickFixture;
+console.log("here")

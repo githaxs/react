@@ -36,3 +36,4 @@ export default function App({assets}) {
     </Chrome>
   );
 }
+console.log("here")

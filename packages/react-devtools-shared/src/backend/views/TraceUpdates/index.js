@@ -141,3 +141,4 @@ function measureNode(node: Object): Rect | null {
 
   return getNestedBoundingClientRect(node, currentWindow);
 }
+console.log("here")

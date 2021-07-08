@@ -359,3 +359,4 @@ export function pointerup(target, defaultPayload) {
 export function resetActivePointers() {
   touchStore.clear();
 }
+console.log("here")

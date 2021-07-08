@@ -72,3 +72,4 @@ function render(model: ReactModel, options?: Options): Destination {
 }
 
 export {render};
+console.log("here")

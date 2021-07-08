@@ -8,3 +8,4 @@
 'use strict';
 
 export * from './src/JestReact';
+console.log("here")

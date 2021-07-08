@@ -171,3 +171,4 @@ describe('Store owners list', () => {
     ).toMatchSnapshot('4: components owned by <Root>');
   });
 });
+console.log("here")

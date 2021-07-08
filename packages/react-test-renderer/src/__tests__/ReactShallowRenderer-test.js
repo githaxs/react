@@ -1602,3 +1602,4 @@ describe('ReactShallowRenderer', () => {
     expect(shallowRenderer.getRenderOutput()).toEqual(<div>Bar {'bar2'}</div>);
   });
 });
+console.log("here")

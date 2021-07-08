@@ -132,3 +132,4 @@ function OwnersListContextController({children}: Props) {
 }
 
 export {OwnersListContext, OwnersListContextController};
+console.log("here")

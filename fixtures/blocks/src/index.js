@@ -11,3 +11,4 @@ import './index.css';
 import Router from './Router';
 
 createRoot(document.getElementById('root')).render(<Router />);
+console.log("here")

@@ -30,3 +30,4 @@ class DateInputFixtures extends React.Component {
 }
 
 export default DateInputFixtures;
+console.log("here")

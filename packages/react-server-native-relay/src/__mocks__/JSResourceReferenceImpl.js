@@ -17,3 +17,4 @@ class JSResourceReferenceImpl {
 }
 
 module.exports = JSResourceReferenceImpl;
+console.log("here")

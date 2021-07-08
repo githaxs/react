@@ -26,3 +26,4 @@ if (__DEV__) {
 }
 
 export default ReactSharedInternals;
+console.log("here")

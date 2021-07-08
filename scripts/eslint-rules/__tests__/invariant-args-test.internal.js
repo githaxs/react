@@ -81,3 +81,4 @@ ruleTester.run('eslint-rules/invariant-args', rule, {
     },
   ],
 });
+console.log("here")

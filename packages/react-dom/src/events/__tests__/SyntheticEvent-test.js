@@ -99,3 +99,4 @@ describe('SyntheticEvent', () => {
     expect(expectedCount).toBe(1);
   });
 });
+console.log("here")

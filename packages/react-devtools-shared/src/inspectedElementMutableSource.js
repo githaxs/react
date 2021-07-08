@@ -130,3 +130,4 @@ export function inspectElement({
     throw Error(`Unable to inspect element with id "${id}"`);
   });
 }
+console.log("here")

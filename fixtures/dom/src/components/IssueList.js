@@ -24,3 +24,4 @@ export default function IssueList({issues}) {
 
   return <span>{links}</span>;
 }
+console.log("here")

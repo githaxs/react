@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactNoopFlightClient';
+console.log("here")

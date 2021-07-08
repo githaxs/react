@@ -163,3 +163,4 @@ describe('ReactTopLevelFragment', function() {
     expect(instanceB).toBe(instanceA);
   });
 });
+console.log("here")

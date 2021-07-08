@@ -40,3 +40,4 @@ Object.keys(versions).forEach(function(name) {
 if (!allVersionsMatch) {
   process.exit(1);
 }
+console.log("here")

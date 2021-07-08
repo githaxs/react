@@ -291,3 +291,4 @@ function ProfilerContextController({children}: Props) {
 }
 
 export {ProfilerContext, ProfilerContextController};
+console.log("here")

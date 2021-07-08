@@ -42,3 +42,4 @@ function unmemoizedGetBatchRange(
 }
 
 export const getBatchRange = memoize(unmemoizedGetBatchRange);
+console.log("here")

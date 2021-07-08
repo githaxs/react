@@ -16,3 +16,4 @@ class EventPooling extends React.Component {
 }
 
 export default EventPooling;
+console.log("here")

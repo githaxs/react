@@ -7,3 +7,4 @@ const deploy = require('../deploy');
 const main = async () => await deploy('edge');
 
 main();
+console.log("here")

@@ -46,3 +46,4 @@ console.log('  npm install -g serve');
 console.log('  serve ../..');
 console.log('  open http://localhost:5000/fixtures/packaging/');
 console.log('-------------------------');
+console.log("here")

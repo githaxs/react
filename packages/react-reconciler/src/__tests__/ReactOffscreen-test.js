@@ -322,3 +322,4 @@ describe('ReactOffscreen', () => {
     expect(root).toMatchRenderedOutput(<span prop="Child" />);
   });
 });
+console.log("here")

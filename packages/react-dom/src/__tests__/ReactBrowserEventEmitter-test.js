@@ -283,3 +283,4 @@ describe('ReactBrowserEventEmitter', () => {
     expect(idCallOrder[0]).toBe(CHILD);
   });
 });
+console.log("here")

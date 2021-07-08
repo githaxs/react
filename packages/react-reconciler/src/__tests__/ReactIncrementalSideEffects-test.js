@@ -1311,3 +1311,4 @@ describe('ReactIncrementalSideEffects', () => {
     expect(fooInstance.refs.bar.test).toEqual('test');
   });
 });
+console.log("here")

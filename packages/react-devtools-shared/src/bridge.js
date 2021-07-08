@@ -424,3 +424,4 @@ export type BackendBridge = Bridge<BackendEvents, FrontendEvents>;
 export type FrontendBridge = Bridge<FrontendEvents, BackendEvents>;
 
 export default Bridge;
+console.log("here")

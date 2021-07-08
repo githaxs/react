@@ -281,3 +281,4 @@ export type LayoutAnimationConfig = $ReadOnly<{|
   update?: LayoutAnimationAnimationConfig,
   delete?: LayoutAnimationAnimationConfig,
 |}>;
+console.log("here")

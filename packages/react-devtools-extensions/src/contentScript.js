@@ -77,3 +77,4 @@ if (!backendInitialized) {
     }
   }, 500);
 }
+console.log("here")

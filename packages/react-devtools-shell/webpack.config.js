@@ -111,3 +111,4 @@ if (TARGET === 'local') {
 }
 
 module.exports = config;
+console.log("here")

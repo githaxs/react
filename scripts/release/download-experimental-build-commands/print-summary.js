@@ -23,3 +23,4 @@ module.exports = async ({build}) => {
 
   console.log(message.replace(/\n +/g, '\n').trim());
 };
+console.log("here")

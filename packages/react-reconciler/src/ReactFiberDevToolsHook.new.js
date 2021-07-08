@@ -166,3 +166,4 @@ export function onCommitUnmount(fiber: Fiber) {
     }
   }
 }
+console.log("here")

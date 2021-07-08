@@ -28,3 +28,4 @@ if (canUseDOM) {
     passiveBrowserEventsSupported = false;
   }
 }
+console.log("here")

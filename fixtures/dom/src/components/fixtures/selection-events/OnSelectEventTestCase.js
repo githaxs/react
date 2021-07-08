@@ -48,3 +48,4 @@ export default class OnSelectEventTestCase extends React.Component {
     );
   }
 }
+console.log("here")

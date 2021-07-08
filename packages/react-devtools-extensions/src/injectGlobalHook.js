@@ -113,3 +113,4 @@ if (typeof exportFunction === 'function') {
     {defineAs: 'clipboardCopyText'},
   );
 }
+console.log("here")

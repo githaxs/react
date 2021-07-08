@@ -69,3 +69,4 @@ module.exports = {
 };
 
 module.exports.moduleFileExtensions = moduleFileExtensions;
+console.log("here")

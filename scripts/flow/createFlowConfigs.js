@@ -96,3 +96,4 @@ inlinedHostConfigs.forEach(rendererInfo => {
     );
   }
 });
+console.log("here")

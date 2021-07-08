@@ -68,3 +68,4 @@ describe('SyntheticFocusEvent', () => {
     expect(log).toEqual(['onBlurCapture: blur', 'onBlur: blur']);
   });
 });
+console.log("here")

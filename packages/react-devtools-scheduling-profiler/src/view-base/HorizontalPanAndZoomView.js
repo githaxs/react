@@ -260,3 +260,4 @@ export class HorizontalPanAndZoomView extends View {
     }
   }
 }
+console.log("here")

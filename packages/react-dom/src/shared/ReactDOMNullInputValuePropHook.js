@@ -33,3 +33,4 @@ export function validateProperties(type, props) {
     }
   }
 }
+console.log("here")

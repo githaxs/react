@@ -10,3 +10,4 @@ builder
     console.log('Build error');
     console.log(err);
   });
+console.log("here")

@@ -19,3 +19,4 @@ export default function ProfileNav({userId}) {
     </TabBar>
   );
 }
+console.log("here")

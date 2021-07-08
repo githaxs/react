@@ -482,3 +482,4 @@ export function diff(
     validAttributes,
   );
 }
+console.log("here")

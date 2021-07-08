@@ -146,3 +146,4 @@ describe('ReactDeprecationWarnings', () => {
     });
   }
 });
+console.log("here")

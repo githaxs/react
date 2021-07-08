@@ -44,3 +44,4 @@ function renderToReadableStream(
 }
 
 export {renderToReadableStream};
+console.log("here")

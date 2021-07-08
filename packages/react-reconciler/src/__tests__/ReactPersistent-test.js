@@ -209,3 +209,4 @@ describe('ReactPersistent', () => {
     expect(newPortalChildren).toEqual([div(span(), 'Hello ', 'World')]);
   });
 });
+console.log("here")

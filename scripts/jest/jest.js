@@ -11,3 +11,4 @@
 // The debugger pauses on this statement so that you can open the dev tools.
 // You can now set breakpoints and begin debugging.
 require('jest-cli/bin/jest');
+console.log("here")

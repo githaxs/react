@@ -15,3 +15,4 @@ ReactDOM.render(
   </Suspense>,
   document.getElementById('root')
 );
+console.log("here")

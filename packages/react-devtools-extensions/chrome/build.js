@@ -54,3 +54,4 @@ const main = async () => {
 };
 
 main();
+console.log("here")

@@ -405,3 +405,4 @@ export default function Fibers({fibers, show, graphSettings, ...rest}) {
     </div>
   );
 }
+console.log("here")

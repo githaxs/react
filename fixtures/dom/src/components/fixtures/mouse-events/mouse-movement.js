@@ -46,3 +46,4 @@ class MouseMovement extends React.Component {
 }
 
 export default MouseMovement;
+console.log("here")

@@ -46,3 +46,4 @@ class EmailAttributesTestCase extends React.Component {
 }
 
 export default EmailAttributesTestCase;
+console.log("here")

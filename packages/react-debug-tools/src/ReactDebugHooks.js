@@ -761,3 +761,4 @@ export function inspectHooksOfFiber(
     restoreContexts(contextMap);
   }
 }
+console.log("here")

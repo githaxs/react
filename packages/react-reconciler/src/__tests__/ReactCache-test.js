@@ -912,3 +912,4 @@ describe('ReactCache', () => {
     expect(root).toMatchRenderedOutput('A1');
   });
 });
+console.log("here")

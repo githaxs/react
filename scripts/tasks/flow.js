@@ -50,3 +50,4 @@ if (!primaryRenderer) {
 }
 
 runFlow(primaryRenderer.shortName, ['status']);
+console.log("here")

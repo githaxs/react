@@ -7,3 +7,4 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   module.exports = require('./cjs/eslint-plugin-react-hooks.development.js');
 }
+console.log("here")

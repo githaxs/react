@@ -134,3 +134,4 @@ describe('ReactUpdatePriority', () => {
     expect(root).toMatchRenderedOutput('(hidden)');
   });
 });
+console.log("here")

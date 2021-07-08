@@ -71,3 +71,4 @@ const MouseEnterDetect = () => {
 };
 
 export default MouseEnter;
+console.log("here")

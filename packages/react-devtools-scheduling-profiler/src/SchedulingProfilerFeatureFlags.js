@@ -8,3 +8,4 @@
  */
 
 export const enableDarkMode = false;
+console.log("here")

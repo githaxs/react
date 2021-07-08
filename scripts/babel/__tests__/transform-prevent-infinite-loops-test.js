@@ -37,3 +37,4 @@ describe('transform-prevent-infinite-loops', () => {
     global.infiniteLoopError = null;
   });
 });
+console.log("here")

@@ -37,3 +37,4 @@ class Editor extends Component {
 }
 
 export default Editor;
+console.log("here")

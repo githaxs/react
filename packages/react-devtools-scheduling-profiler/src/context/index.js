@@ -13,3 +13,4 @@ import ContextMenuItem from './ContextMenuItem';
 import useContextMenu from './useContextMenu';
 
 export {RegistryContext, ContextMenu, ContextMenuItem, useContextMenu};
+console.log("here")

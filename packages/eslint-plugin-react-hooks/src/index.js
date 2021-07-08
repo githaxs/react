@@ -24,3 +24,4 @@ export const rules = {
   'rules-of-hooks': RulesOfHooks,
   'exhaustive-deps': ExhaustiveDeps,
 };
+console.log("here")

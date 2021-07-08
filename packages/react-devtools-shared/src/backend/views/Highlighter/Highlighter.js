@@ -51,3 +51,4 @@ export function showOverlay(
     timeoutID = setTimeout(hideOverlay, SHOW_DURATION);
   }
 }
+console.log("here")

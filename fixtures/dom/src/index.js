@@ -11,3 +11,4 @@ loadReact()
       document.getElementById('root')
     );
   });
+console.log("here")

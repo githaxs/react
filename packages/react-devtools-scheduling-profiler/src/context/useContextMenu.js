@@ -50,3 +50,4 @@ export default function useContextMenu<T>({
     }
   }, [data, id, showMenu]);
 }
+console.log("here")

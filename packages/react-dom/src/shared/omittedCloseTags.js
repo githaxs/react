@@ -28,3 +28,4 @@ const omittedCloseTags = {
 };
 
 export default omittedCloseTags;
+console.log("here")

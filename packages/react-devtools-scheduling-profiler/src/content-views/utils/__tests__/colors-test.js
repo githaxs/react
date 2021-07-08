@@ -91,3 +91,4 @@ describe(ColorGenerator, () => {
     });
   });
 });
+console.log("here")

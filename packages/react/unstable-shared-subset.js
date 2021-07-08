@@ -10,3 +10,4 @@
 throw new Error(
   'This entry point is not yet supported outside of experimental channels',
 );
+console.log("here")

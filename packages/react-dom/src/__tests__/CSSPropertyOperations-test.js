@@ -255,3 +255,4 @@ describe('CSSPropertyOperations', () => {
     expect(root.children[0].style.getPropertyValue('--foo')).toEqual('5');
   });
 });
+console.log("here")

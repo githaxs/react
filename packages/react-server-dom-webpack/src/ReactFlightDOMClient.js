@@ -82,3 +82,4 @@ function createFromXHR(request: XMLHttpRequest): FlightResponse {
 }
 
 export {createFromXHR, createFromFetch, createFromReadableStream};
+console.log("here")

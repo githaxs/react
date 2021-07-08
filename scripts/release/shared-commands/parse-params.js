@@ -72,3 +72,4 @@ module.exports = async () => {
 
   return params;
 };
+console.log("here")

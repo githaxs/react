@@ -145,3 +145,4 @@ describe('ReactDOMHooks', () => {
     expect(labelRef.current.innerHTML).toBe('abc');
   });
 });
+console.log("here")

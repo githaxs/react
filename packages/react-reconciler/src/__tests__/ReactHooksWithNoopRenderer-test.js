@@ -3785,3 +3785,4 @@ describe('ReactHooksWithNoopRenderer', () => {
     expect(Scheduler).toHaveYielded(['Render: 0']);
   });
 });
+console.log("here")

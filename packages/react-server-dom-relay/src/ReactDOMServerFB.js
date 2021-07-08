@@ -85,3 +85,4 @@ function hasFinished(stream: Stream): boolean {
 }
 
 export {renderToStream, renderNextChunk, hasFinished, abortStream};
+console.log("here")

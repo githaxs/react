@@ -47,3 +47,4 @@ module.exports = async (params, versionsMap) => {
     'Guessing stable version numbers'
   );
 };
+console.log("here")

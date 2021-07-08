@@ -76,3 +76,4 @@ export function createMarkupForCustomAttribute(
   }
   return name + '=' + quoteAttributeValueForBrowser(value);
 }
+console.log("here")

@@ -8,3 +8,4 @@
  */
 
 export {default} from 'react-shallow-renderer';
+console.log("here")

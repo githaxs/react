@@ -21,3 +21,4 @@ export {
   unstable_renderSubtreeIntoContainer,
   version,
 } from './src/client/ReactDOM';
+console.log("here")

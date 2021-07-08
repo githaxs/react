@@ -187,3 +187,4 @@ export function getChartData({
 export function invalidateChartData(): void {
   cachedChartData.clear();
 }
+console.log("here")

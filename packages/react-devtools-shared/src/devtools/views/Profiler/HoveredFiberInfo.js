@@ -73,3 +73,4 @@ export default function HoveredFiberInfo({fiberData}: Props) {
     </Fragment>
   );
 }
+console.log("here")

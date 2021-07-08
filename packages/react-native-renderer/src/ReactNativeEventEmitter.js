@@ -234,3 +234,4 @@ export function receiveTouches(
     _receiveRootNodeIDEvent(rootNodeID, eventTopLevelType, nativeEvent);
   }
 }
+console.log("here")

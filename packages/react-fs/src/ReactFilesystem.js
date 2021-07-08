@@ -379,3 +379,4 @@ export function stat(path: string, options?: {bigint?: boolean}): mixed {
   const stats = readRecord(record).value;
   return stats;
 }
+console.log("here")

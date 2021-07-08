@@ -13,3 +13,4 @@ export default function Page2() {
     </div>
   );
 }
+console.log("here")

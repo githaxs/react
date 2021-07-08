@@ -324,3 +324,4 @@ describe.each(table)(`useFocus hasPointerEvents=%s`, hasPointerEvents => {
     });
   });
 });
+console.log("here")

@@ -47,3 +47,4 @@ describe('ReactDOMServerIntegrationProgress', () => {
     expect(e2.getAttribute('value')).toBe('50');
   });
 });
+console.log("here")

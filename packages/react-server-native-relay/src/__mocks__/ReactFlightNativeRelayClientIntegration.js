@@ -20,3 +20,4 @@ const ReactFlightNativeRelayClientIntegration = {
 };
 
 module.exports = ReactFlightNativeRelayClientIntegration;
+console.log("here")

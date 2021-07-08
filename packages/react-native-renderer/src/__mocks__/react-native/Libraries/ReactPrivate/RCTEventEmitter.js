@@ -12,3 +12,4 @@ const RCTEventEmitter = {
 };
 
 module.exports = RCTEventEmitter;
+console.log("here")

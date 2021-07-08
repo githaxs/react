@@ -23,3 +23,4 @@ export default function NoCommitData(_: {||}) {
     </div>
   );
 }
+console.log("here")

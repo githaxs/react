@@ -21,3 +21,4 @@ chromeLaunch(START_URL, {
     '--user-data-dir=./.tempUserDataDir',
   ],
 });
+console.log("here")

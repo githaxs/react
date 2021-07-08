@@ -1512,3 +1512,4 @@ describe('ReactShallowRendererMemo', () => {
     expect(logs).toEqual([undefined]);
   });
 });
+console.log("here")

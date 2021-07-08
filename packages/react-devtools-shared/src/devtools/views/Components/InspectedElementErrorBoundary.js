@@ -45,3 +45,4 @@ export default function InspectedElementErrorBoundaryWrapper({
     </div>
   );
 }
+console.log("here")

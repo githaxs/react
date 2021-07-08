@@ -25,3 +25,4 @@ module.exports = {
     ['@babel/plugin-transform-block-scoping', {throwIfClosureRequired: true}],
   ],
 };
+console.log("here")

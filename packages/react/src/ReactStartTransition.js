@@ -18,3 +18,4 @@ export function startTransition(scope: () => void) {
     ReactCurrentBatchConfig.transition = prevTransition;
   }
 }
+console.log("here")

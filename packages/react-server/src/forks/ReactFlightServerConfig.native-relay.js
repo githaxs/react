@@ -8,3 +8,4 @@
  */
 
 export * from 'react-server-native-relay/src/ReactFlightNativeRelayServerHostConfig';
+console.log("here")

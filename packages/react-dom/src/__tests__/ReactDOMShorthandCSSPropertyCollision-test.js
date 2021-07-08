@@ -142,3 +142,4 @@ describe('ReactDOMShorthandCSSPropertyCollision', () => {
     );
   });
 });
+console.log("here")

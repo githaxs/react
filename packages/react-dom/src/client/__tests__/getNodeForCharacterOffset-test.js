@@ -81,3 +81,4 @@ describe('getNodeForCharacterOffset', () => {
     expect(getNodeForCharacterOffset(node, 4)).toBeUndefined();
   });
 });
+console.log("here")

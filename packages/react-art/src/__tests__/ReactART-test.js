@@ -481,3 +481,4 @@ describe('ReactARTComponents', () => {
     ]);
   });
 });
+console.log("here")

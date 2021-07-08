@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFizzServer';
+console.log("here")

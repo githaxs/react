@@ -64,3 +64,4 @@ export function runEventsInBatch(
   // This would be a good time to rethrow if any of the event handlers threw.
   rethrowCaughtError();
 }
+console.log("here")

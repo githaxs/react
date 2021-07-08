@@ -37,3 +37,4 @@ spawn(
 
   process.exit(code);
 });
+console.log("here")

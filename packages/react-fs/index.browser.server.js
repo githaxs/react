@@ -10,3 +10,4 @@
 throw new Error(
   'This entry point is not yet supported in the browser environment',
 );
+console.log("here")

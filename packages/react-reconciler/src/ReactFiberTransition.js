@@ -16,3 +16,4 @@ export const NoTransition = 0;
 export function requestCurrentTransition(): number {
   return ReactCurrentBatchConfig.transition;
 }
+console.log("here")

@@ -78,3 +78,4 @@ let BabelClassWithFields = /*#__PURE__*/ (function(_React$Component2) {
 })(React.Component);
 
 //# sourceMappingURL=BabelClasses-compiled.js.map
+console.log("here")

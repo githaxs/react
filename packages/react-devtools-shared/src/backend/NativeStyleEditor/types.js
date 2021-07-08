@@ -32,3 +32,4 @@ export type StyleAndLayout = {|
   style: Style | null,
   layout: Layout | null,
 |};
+console.log("here")

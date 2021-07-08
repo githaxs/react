@@ -52,3 +52,4 @@ export default class Chrome extends Component {
     );
   }
 }
+console.log("here")

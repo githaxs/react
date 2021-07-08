@@ -33,3 +33,4 @@ export default function Html({assets, children, title}) {
     </html>
   );
 }
+console.log("here")

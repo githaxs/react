@@ -39,3 +39,4 @@ export function durationToWidth(duration: number, scaleFactor: number): number {
 export function widthToDuration(width: number, scaleFactor: number): number {
   return width / scaleFactor;
 }
+console.log("here")

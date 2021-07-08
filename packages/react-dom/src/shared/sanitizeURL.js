@@ -44,3 +44,4 @@ function sanitizeURL(url: string) {
 }
 
 export default sanitizeURL;
+console.log("here")

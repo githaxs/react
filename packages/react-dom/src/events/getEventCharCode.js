@@ -49,3 +49,4 @@ function getEventCharCode(nativeEvent: KeyboardEvent): number {
 }
 
 export default getEventCharCode;
+console.log("here")

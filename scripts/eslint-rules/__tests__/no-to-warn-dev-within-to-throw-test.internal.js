@@ -30,3 +30,4 @@ ruleTester.run('eslint-rules/no-to-warn-dev-within-to-throw', rule, {
     },
   ],
 });
+console.log("here")

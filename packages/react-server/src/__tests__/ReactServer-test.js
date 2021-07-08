@@ -33,3 +33,4 @@ describe('ReactServer', () => {
     expect(result.root).toEqual(div('hello world'));
   });
 });
+console.log("here")

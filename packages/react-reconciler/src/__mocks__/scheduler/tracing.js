@@ -9,3 +9,4 @@
 
 // This placeholder is to support a legacy/regression test in ReactFresh-test.
 // Without this mock, jest.mock('scheduler/tracing') throws.
+console.log("here")

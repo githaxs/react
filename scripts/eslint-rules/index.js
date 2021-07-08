@@ -11,3 +11,4 @@ module.exports = {
     'no-cross-fork-types': require('./no-cross-fork-types'),
   },
 };
+console.log("here")

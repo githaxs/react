@@ -165,3 +165,4 @@ class TextInputFixtures extends React.Component {
 }
 
 export default TextInputFixtures;
+console.log("here")

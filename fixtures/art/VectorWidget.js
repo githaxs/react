@@ -146,3 +146,4 @@ var RING_THREE_ROTATE = new Transform()
   .translate(-84.0, -89.0);
 
 module.exports = VectorWidget;
+console.log("here")

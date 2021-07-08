@@ -47,3 +47,4 @@ ruleTester.run('eslint-rules/no-primitive-constructors', rule, {
     },
   ],
 });
+console.log("here")

@@ -12,3 +12,4 @@
 const deepFreezeAndThrowOnMutationInDev = function() {};
 
 module.exports = deepFreezeAndThrowOnMutationInDev;
+console.log("here")

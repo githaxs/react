@@ -17,4 +17,4 @@ function Component(props) {
   return `${foo}-${bar}-${baz}`;
 }
 
-module.exports = {Component};
+module.exports = {Component};console.log("here")

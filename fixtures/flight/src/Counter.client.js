@@ -10,3 +10,4 @@ export function Counter() {
     </Container>
   );
 }
+console.log("here")

@@ -41,3 +41,4 @@ function printWarning(level, format, args) {
     warningWWW.apply(null, args);
   }
 }
+console.log("here")

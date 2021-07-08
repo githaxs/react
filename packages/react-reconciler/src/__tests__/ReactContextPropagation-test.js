@@ -919,3 +919,4 @@ describe('ReactLazyContextPropagation', () => {
     expect(root).toMatchRenderedOutput('BB');
   });
 });
+console.log("here")

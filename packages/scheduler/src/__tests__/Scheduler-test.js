@@ -260,3 +260,4 @@ describe('SchedulerBrowser', () => {
     runtime.assertLog(['Message Event', 'B']);
   });
 });
+console.log("here")

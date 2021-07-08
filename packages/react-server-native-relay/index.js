@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFlightNativeRelayClient';
+console.log("here")

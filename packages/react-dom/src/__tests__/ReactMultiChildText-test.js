@@ -210,3 +210,4 @@ describe('ReactMultiChildText', () => {
     }).not.toThrow();
   });
 });
+console.log("here")

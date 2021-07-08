@@ -31,3 +31,4 @@ export const ContextMenuContext = createContext<ContextMenuContextType>({
   viewAttributeSourceFunction: null,
 });
 ContextMenuContext.displayName = 'ContextMenuContext';
+console.log("here")

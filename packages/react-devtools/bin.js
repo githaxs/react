@@ -34,3 +34,4 @@ const result = spawn.sync(electron, [require.resolve('./app')].concat(argv), {
 });
 
 process.exit(result.status);
+console.log("here")

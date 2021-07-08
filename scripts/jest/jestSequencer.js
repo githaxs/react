@@ -17,3 +17,4 @@ class CustomSequencer extends Sequencer {
 }
 
 module.exports = CustomSequencer;
+console.log("here")

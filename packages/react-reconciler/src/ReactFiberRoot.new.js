@@ -135,3 +135,4 @@ export function createFiberRoot(
 
   return root;
 }
+console.log("here")

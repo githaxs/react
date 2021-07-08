@@ -308,3 +308,4 @@ describe('ReactIncrementalReflection', () => {
     expect(Scheduler).toFlushAndYield([['componentWillUnmount', hostDiv]]);
   });
 });
+console.log("here")

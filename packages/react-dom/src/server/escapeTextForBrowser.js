@@ -109,3 +109,4 @@ function escapeTextForBrowser(text) {
 }
 
 export default escapeTextForBrowser;
+console.log("here")

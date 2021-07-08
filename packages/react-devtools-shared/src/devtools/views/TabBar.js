@@ -131,3 +131,4 @@ export default function TabBar({
     </Fragment>
   );
 }
+console.log("here")

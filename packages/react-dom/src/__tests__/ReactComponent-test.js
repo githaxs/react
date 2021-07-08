@@ -629,3 +629,4 @@ describe('ReactComponent', () => {
     });
   });
 });
+console.log("here")

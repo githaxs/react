@@ -58,3 +58,4 @@ export function print(hook, serialize, indent) {
   // Don't stringify this object; that would break nested serializers.
   return serialize(serializeHook(hook));
 }
+console.log("here")

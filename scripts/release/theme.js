@@ -34,3 +34,4 @@ theme.spinnerError = theme.hex(colors.red);
 theme.spinnerSuccess = theme.hex(colors.green);
 
 module.exports = theme;
+console.log("here")

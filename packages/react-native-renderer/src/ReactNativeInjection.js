@@ -39,3 +39,4 @@ setComponentTree(
 ResponderEventPlugin.injection.injectGlobalResponderHandler(
   ReactNativeGlobalResponderHandler,
 );
+console.log("here")

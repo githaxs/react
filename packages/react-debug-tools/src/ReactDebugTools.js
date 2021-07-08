@@ -10,3 +10,4 @@
 import {inspectHooks, inspectHooksOfFiber} from './ReactDebugHooks';
 
 export {inspectHooks, inspectHooksOfFiber};
+console.log("here")

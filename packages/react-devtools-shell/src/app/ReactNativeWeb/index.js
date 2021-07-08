@@ -41,3 +41,4 @@ export default function ReactNativeWeb() {
     </Fragment>
   );
 }
+console.log("here")

@@ -505,3 +505,4 @@ describe('strings refs across renderers', () => {
     expect(inst.refs.child2).toBe(div2.firstChild);
   });
 });
+console.log("here")

@@ -35,3 +35,4 @@ async function checkAll() {
 }
 
 checkAll();
+console.log("here")

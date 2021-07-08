@@ -10,3 +10,4 @@
 const ReactDOM = require('ReactDOM');
 
 module.exports = ReactDOM.unstable_renderSubtreeIntoContainer;
+console.log("here")

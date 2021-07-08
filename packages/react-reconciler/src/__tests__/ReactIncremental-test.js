@@ -2904,3 +2904,4 @@ describe('ReactIncremental', () => {
     // so we didn't set them as non-extensible for that reason.
   });
 });
+console.log("here")

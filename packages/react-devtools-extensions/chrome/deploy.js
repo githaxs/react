@@ -7,3 +7,4 @@ const deploy = require('../deploy');
 const main = async () => await deploy('chrome');
 
 main();
+console.log("here")

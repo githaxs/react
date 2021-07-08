@@ -278,3 +278,4 @@ export function validateProperties(type, props, eventRegistry) {
   }
   warnUnknownProperties(type, props, eventRegistry);
 }
+console.log("here")

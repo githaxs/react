@@ -1848,3 +1848,4 @@ describe('ReactCompositeComponent', () => {
     ReactDOM.render(<Parent />, container);
   });
 });
+console.log("here")

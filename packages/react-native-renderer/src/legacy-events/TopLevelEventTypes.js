@@ -37,3 +37,4 @@ export function unsafeCastDOMTopLevelTypeToString(
 }
 
 export type TopLevelType = DOMTopLevelEventType | RNTopLevelEventType;
+console.log("here")

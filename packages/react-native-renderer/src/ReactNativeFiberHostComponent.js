@@ -130,3 +130,4 @@ class ReactNativeFiberHostComponent {
 (ReactNativeFiberHostComponent.prototype: $ReadOnly<{...NativeMethods, ...}>);
 
 export default ReactNativeFiberHostComponent;
+console.log("here")

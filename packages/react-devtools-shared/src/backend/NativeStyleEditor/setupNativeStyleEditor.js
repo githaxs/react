@@ -330,3 +330,4 @@ function setStyle(
 
   agent.emit('hideNativeHighlight');
 }
+console.log("here")

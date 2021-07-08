@@ -116,3 +116,4 @@ describe('ReactPureComponent', () => {
     );
   });
 });
+console.log("here")

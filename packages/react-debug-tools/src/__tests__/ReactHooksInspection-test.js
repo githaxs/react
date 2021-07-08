@@ -336,3 +336,4 @@ describe('ReactHooksInspection', () => {
     });
   });
 });
+console.log("here")

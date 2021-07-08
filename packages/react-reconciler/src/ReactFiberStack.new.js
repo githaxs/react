@@ -95,3 +95,4 @@ export {
   checkThatStackIsEmpty,
   resetStackAfterFatalErrorInDev,
 };
+console.log("here")

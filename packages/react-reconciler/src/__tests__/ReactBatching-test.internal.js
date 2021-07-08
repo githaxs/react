@@ -166,3 +166,4 @@ describe('ReactBlockingMode', () => {
     expect(root).toMatchRenderedOutput('A1B1');
   });
 });
+console.log("here")

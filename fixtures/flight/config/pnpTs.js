@@ -33,3 +33,4 @@ exports.resolveTypeReferenceDirective = (
     typescript.resolveTypeReferenceDirective
   );
 };
+console.log("here")

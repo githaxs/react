@@ -38,3 +38,4 @@ describe('ReactTopLevelText', () => {
     expect(ReactNoop).toMatchRenderedOutput('10');
   });
 });
+console.log("here")

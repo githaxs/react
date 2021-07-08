@@ -6,3 +6,4 @@
  */
 
 export default require('ReactCurrentDispatcher');
+console.log("here")

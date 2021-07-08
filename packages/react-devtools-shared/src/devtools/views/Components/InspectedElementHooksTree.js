@@ -410,3 +410,4 @@ function HookView({
 
 // $FlowFixMe
 export default React.memo(InspectedElementHooksTree);
+console.log("here")

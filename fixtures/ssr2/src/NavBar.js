@@ -13,3 +13,4 @@ export default function NavBar() {
     </nav>
   );
 }
+console.log("here")

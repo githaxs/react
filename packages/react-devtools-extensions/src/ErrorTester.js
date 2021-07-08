@@ -32,3 +32,4 @@ export function areSourceMapsAppliedToErrors(): boolean {
 
   return sourceMapsAreAppliedToErrors === true;
 }
+console.log("here")

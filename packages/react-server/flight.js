@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFlightServer';
+console.log("here")

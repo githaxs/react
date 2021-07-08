@@ -12,3 +12,4 @@ export function Component() {
 
   return count;
 }
+console.log("here")

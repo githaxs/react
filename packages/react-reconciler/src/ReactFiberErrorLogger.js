@@ -94,3 +94,4 @@ export function logCapturedError(
     });
   }
 }
+console.log("here")

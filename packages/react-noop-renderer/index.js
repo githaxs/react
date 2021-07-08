@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactNoop';
+console.log("here")

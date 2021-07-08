@@ -163,3 +163,4 @@ export function writeEndClientRenderedSuspenseBoundary(
   }
   return writeEndClientRenderedSuspenseBoundaryImpl(destination, responseState);
 }
+console.log("here")

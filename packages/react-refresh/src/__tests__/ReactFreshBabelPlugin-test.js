@@ -537,3 +537,4 @@ describe('ReactFreshBabelPlugin', () => {
     ).toMatchSnapshot();
   });
 });
+console.log("here")

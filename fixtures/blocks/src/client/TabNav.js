@@ -48,3 +48,4 @@ export function TabLink({to, partial, children}) {
     </Link>
   );
 }
+console.log("here")

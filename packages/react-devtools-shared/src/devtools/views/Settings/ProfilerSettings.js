@@ -102,3 +102,4 @@ export default function ProfilerSettings(_: {||}) {
     </div>
   );
 }
+console.log("here")

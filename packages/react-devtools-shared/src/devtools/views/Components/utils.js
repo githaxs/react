@@ -26,3 +26,4 @@ export function parseHookPathForEdit(
   }
   return path.slice(index);
 }
+console.log("here")

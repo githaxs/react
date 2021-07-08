@@ -69,3 +69,4 @@ export function registerDirectEvent(
     allNativeEvents.add(dependencies[i]);
   }
 }
+console.log("here")

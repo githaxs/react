@@ -103,3 +103,4 @@ module.exports = function(opts) {
     flush();
   };
 };
+console.log("here")

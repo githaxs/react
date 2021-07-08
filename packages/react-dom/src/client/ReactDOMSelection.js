@@ -200,3 +200,4 @@ export function setOffsets(node, offsets) {
     }
   }
 }
+console.log("here")

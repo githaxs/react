@@ -18,3 +18,4 @@ export default function FeedPage() {
     </Suspense>
   );
 }
+console.log("here")

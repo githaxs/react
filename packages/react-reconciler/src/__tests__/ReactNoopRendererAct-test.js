@@ -61,3 +61,4 @@ describe('internal act()', () => {
     expect(ReactNoop.getChildren()).toEqual([{text: '1', hidden: false}]);
   });
 });
+console.log("here")

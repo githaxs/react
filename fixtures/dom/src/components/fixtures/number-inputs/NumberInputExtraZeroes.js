@@ -28,3 +28,4 @@ class NumberInputExtraZeroes extends React.Component {
 }
 
 export default NumberInputExtraZeroes;
+console.log("here")

@@ -1948,3 +1948,4 @@ describe('ReactFreshIntegration', () => {
     });
   }
 });
+console.log("here")

@@ -26,3 +26,4 @@ export default function App(props) {
   const match = matchRoute(props, AppRoutes);
   return <Shell>{match}</Shell>;
 }
+console.log("here")

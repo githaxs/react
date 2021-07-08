@@ -125,3 +125,4 @@ exports.get = function(name: string): ViewConfig {
   invariant(viewConfig, 'View config not found for name %s', name);
   return viewConfig;
 };
+console.log("here")

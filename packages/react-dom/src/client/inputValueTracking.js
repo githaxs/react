@@ -139,3 +139,4 @@ export function stopTracking(node: ElementWithValueTracker) {
     tracker.stopTracking();
   }
 }
+console.log("here")

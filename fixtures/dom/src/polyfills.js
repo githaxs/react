@@ -34,3 +34,4 @@ import 'core-js/es6/map';
       clearTimeout(id);
     };
 })();
+console.log("here")

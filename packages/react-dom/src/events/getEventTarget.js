@@ -30,3 +30,4 @@ function getEventTarget(nativeEvent) {
 }
 
 export default getEventTarget;
+console.log("here")

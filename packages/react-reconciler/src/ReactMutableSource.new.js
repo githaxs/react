@@ -106,3 +106,4 @@ export function registerMutableSourceForHydration(
     root.mutableSourceEagerHydrationData.push(mutableSource, version);
   }
 }
+console.log("here")

@@ -25,3 +25,4 @@ export default function CircularReferences() {
 function ChildComponent(props: any) {
   return null;
 }
+console.log("here")

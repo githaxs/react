@@ -38,3 +38,4 @@ export const close = $$$hostConfig.close;
 export const closeWithError = $$$hostConfig.closeWithError;
 export const stringToChunk = $$$hostConfig.stringToChunk;
 export const stringToPrecomputedChunk = $$$hostConfig.stringToPrecomputedChunk;
+console.log("here")

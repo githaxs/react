@@ -70,3 +70,4 @@ export function getIsRendering() {
     return isRendering;
   }
 }
+console.log("here")

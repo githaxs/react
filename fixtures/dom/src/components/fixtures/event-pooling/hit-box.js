@@ -36,3 +36,4 @@ class HitBox extends React.Component {
 }
 
 export default HitBox;
+console.log("here")

@@ -374,3 +374,4 @@ function nodeContainsHookVariableName(hookNode: NodePath): boolean {
   }
   return false;
 }
+console.log("here")

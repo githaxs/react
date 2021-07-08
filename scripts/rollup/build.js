@@ -800,3 +800,4 @@ async function buildEverything() {
 }
 
 buildEverything();
+console.log("here")

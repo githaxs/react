@@ -35,3 +35,4 @@ export function showErrorDialog(
   };
   return ReactFiberErrorDialogWWW.showErrorDialog(capturedError);
 }
+console.log("here")

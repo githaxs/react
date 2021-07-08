@@ -194,3 +194,4 @@ const RCTUIManager = {
 };
 
 module.exports = RCTUIManager;
+console.log("here")

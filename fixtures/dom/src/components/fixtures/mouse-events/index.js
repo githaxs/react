@@ -16,3 +16,4 @@ class MouseEvents extends React.Component {
 }
 
 export default MouseEvents;
+console.log("here")

@@ -694,3 +694,4 @@ export function mountClassInstance(
     );
   }
 }
+console.log("here")

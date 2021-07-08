@@ -111,3 +111,4 @@ export class ColorGenerator {
     };
   }
 }
+console.log("here")

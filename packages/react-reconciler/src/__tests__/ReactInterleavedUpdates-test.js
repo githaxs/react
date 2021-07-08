@@ -141,3 +141,4 @@ describe('ReactInterleavedUpdates', () => {
     expect(root).toMatchRenderedOutput('222');
   });
 });
+console.log("here")

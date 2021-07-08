@@ -126,3 +126,4 @@ export default function SidebarSelectedFiberInfo(_: Props) {
     </Fragment>
   );
 }
+console.log("here")

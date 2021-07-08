@@ -174,3 +174,4 @@ export function useCacheRefresh(): <T>(?() => T, ?T) => void {
   // $FlowFixMe This is unstable, thus optional
   return dispatcher.useCacheRefresh();
 }
+console.log("here")

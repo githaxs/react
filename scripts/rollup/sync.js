@@ -55,3 +55,4 @@ module.exports = {
   syncReactDom,
   syncReactNative,
 };
+console.log("here")

@@ -31,3 +31,4 @@ describe('ReactDOMIframe', () => {
     expect(onLoadSpy).toHaveBeenCalled();
   });
 });
+console.log("here")

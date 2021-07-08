@@ -37,3 +37,4 @@ function useIsDarkMode() {
 
   return isDarkMode;
 }
+console.log("here")

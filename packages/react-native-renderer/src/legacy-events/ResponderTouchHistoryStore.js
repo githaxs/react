@@ -233,3 +233,4 @@ const ResponderTouchHistoryStore = {
 };
 
 export default ResponderTouchHistoryStore;
+console.log("here")

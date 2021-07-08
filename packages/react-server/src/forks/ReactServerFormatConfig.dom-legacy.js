@@ -8,3 +8,4 @@
  */
 
 export * from 'react-dom/src/server/ReactDOMServerLegacyFormatConfig';
+console.log("here")

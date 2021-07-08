@@ -8,3 +8,4 @@
  */
 
 export * from 'react-server-dom-relay/src/ReactFlightDOMRelayServerHostConfig';
+console.log("here")

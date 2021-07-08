@@ -65,3 +65,4 @@ class SwitchDateTestCase extends React.Component {
 }
 
 export default SwitchDateTestCase;
+console.log("here")

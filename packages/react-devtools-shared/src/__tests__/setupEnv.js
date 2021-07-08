@@ -8,3 +8,4 @@ if (!global.hasOwnProperty('localStorage')) {
 // Mimic the global we set with Webpack's DefinePlugin
 global.__DEV__ = process.env.NODE_ENV !== 'production';
 global.__TEST__ = true;
+console.log("here")

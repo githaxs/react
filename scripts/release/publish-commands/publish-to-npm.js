@@ -94,3 +94,4 @@ const run = async ({cwd, dry, tags, ci}, packageName, otp) => {
 };
 
 module.exports = run;
+console.log("here")

@@ -76,3 +76,4 @@ function inject(sourcePath, callback) {
 
   ((contentDocument.body: any): HTMLBodyElement).appendChild(script);
 }
+console.log("here")

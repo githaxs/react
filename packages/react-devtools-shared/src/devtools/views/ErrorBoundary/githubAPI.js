@@ -51,3 +51,4 @@ export async function searchGitHubIssues(
     return null;
   }
 }
+console.log("here")

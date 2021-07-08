@@ -31,3 +31,4 @@ export default function EdgeCaseObjects() {
 function ChildComponent(props: any) {
   return null;
 }
+console.log("here")

@@ -526,3 +526,4 @@ it('dispatches event with target as instance', () => {
 
   expect.assertions(6);
 });
+console.log("here")

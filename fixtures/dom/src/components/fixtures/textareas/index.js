@@ -82,3 +82,4 @@ export default class TextAreaFixtures extends React.Component {
     );
   }
 }
+console.log("here")

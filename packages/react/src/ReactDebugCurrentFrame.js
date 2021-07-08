@@ -45,3 +45,4 @@ if (__DEV__) {
 }
 
 export default ReactDebugCurrentFrame;
+console.log("here")
