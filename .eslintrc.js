@@ -220,4 +220,4 @@ module.exports = {
     trustedTypes: true,
   },
 };
-console.log("here");
+console.log("here")
