@@ -31,3 +31,4 @@ function invertObject(targetObj /* : ErrorMap */) /* : ErrorMap */ {
 }
 
 module.exports = invertObject;
+console.log("here")

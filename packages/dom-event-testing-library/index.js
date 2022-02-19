@@ -119,3 +119,4 @@ export {
   setPointerEvent,
   testWithPointerType,
 };
+console.log("here")

@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactTestRenderer';
+console.log("here")

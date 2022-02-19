@@ -52,3 +52,4 @@ module.exports = function autoImporter(babel) {
     },
   };
 };
+console.log("here")

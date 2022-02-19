@@ -16,3 +16,4 @@ class Fixture extends React.Component {
 Fixture.propTypes = propTypes;
 
 export default Fixture;
+console.log("here")

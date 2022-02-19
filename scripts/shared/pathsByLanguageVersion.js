@@ -29,3 +29,4 @@ module.exports = {
   esNextPaths,
   es5Paths,
 };
+console.log("here")

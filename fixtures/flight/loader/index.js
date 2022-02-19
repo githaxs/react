@@ -32,3 +32,4 @@ export async function transformSource(source, context, defaultTransformSource) {
     return babelTransformSource(s, c, defaultTransformSource);
   });
 }
+console.log("here")

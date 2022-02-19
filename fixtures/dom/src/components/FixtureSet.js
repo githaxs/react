@@ -24,3 +24,4 @@ class FixtureSet extends React.Component {
 FixtureSet.propTypes = propTypes;
 
 export default FixtureSet;
+console.log("here")

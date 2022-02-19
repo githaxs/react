@@ -10,3 +10,4 @@
 'use strict';
 
 export * from './src/ReactReconcilerConstants';
+console.log("here")

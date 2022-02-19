@@ -46,3 +46,4 @@ class RadioNameChangeFixture extends React.Component {
 }
 
 export default RadioNameChangeFixture;
+console.log("here")

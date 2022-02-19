@@ -24,3 +24,4 @@ function Comment({comment, commentSource}) {
     return () => subscription.dispose();
   }, [commentID, commentSource, currentUserID, environment]);
 }
+console.log("here")

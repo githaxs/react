@@ -274,3 +274,4 @@ export class ReactEventsView extends View {
     }
   }
 }
+console.log("here")

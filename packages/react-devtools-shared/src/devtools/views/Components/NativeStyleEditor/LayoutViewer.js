@@ -69,3 +69,4 @@ function format(number: number): string | number {
     return number.toFixed(1);
   }
 }
+console.log("here")

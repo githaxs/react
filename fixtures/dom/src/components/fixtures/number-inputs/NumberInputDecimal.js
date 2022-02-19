@@ -31,3 +31,4 @@ class NumberInputDecimal extends React.Component {
 }
 
 export default NumberInputDecimal;
+console.log("here")

@@ -24,3 +24,4 @@ describe('ReactFetchBrowser', () => {
     expect(ReactFetchBrowser.fetch).not.toBe(undefined);
   });
 });
+console.log("here")

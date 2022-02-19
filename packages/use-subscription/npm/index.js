@@ -5,3 +5,4 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   module.exports = require('./cjs/use-subscription.development.js');
 }
+console.log("here")

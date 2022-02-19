@@ -477,3 +477,4 @@ function AutoSizedCanvas({data, height, width}: AutoSizedCanvasProps) {
 }
 
 export default CanvasPage;
+console.log("here")

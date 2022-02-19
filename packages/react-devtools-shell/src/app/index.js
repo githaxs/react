@@ -69,3 +69,4 @@ mountTestApp();
 
 window.parent.mountTestApp = mountTestApp;
 window.parent.unmountTestApp = unmountTestApp;
+console.log("here")

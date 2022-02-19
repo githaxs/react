@@ -137,3 +137,4 @@ export type ProfilingDataExport = {|
   version: 5,
   dataForRoots: Array<ProfilingDataForRootExport>,
 |};
+console.log("here")

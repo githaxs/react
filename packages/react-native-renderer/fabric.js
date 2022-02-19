@@ -14,3 +14,4 @@ import * as ReactFabric from './src/ReactFabric';
 (ReactFabric: ReactFabricType);
 
 export * from './src/ReactFabric';
+console.log("here")

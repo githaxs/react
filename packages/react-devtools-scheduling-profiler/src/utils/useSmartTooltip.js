@@ -68,3 +68,4 @@ export default function useSmartTooltip({
 
   return ref;
 }
+console.log("here")

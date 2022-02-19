@@ -72,3 +72,4 @@ describe('createReactNativeComponentClass', () => {
     }).toThrow('Tried to register two views with the same name Text');
   });
 });
+console.log("here")

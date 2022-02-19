@@ -131,3 +131,4 @@ export function registerSimpleEvents() {
   registerSimpleEvent('focusout', 'onBlur');
   registerSimpleEvent(TRANSITION_END, 'onTransitionEnd');
 }
+console.log("here")

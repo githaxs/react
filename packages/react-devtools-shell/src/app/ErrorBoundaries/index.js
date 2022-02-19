@@ -69,3 +69,4 @@ export default function ErrorBoundaries() {
     </Fragment>
   );
 }
+console.log("here")

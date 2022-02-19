@@ -39,3 +39,4 @@ module.exports = function shouldIgnoreConsoleError(format, args) {
   // Looks legit
   return false;
 };
+console.log("here")

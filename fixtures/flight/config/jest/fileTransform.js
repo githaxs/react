@@ -38,3 +38,4 @@ module.exports = {
     return `module.exports = ${assetFilename};`;
   },
 };
+console.log("here")

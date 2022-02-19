@@ -47,3 +47,4 @@ export function getFiberCurrentPropsFromNode(stateNode) {
 export function updateFiberProps(tag, props) {
   instanceProps.set(tag, props);
 }
+console.log("here")

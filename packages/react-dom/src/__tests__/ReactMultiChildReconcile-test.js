@@ -919,3 +919,4 @@ describe('ReactMultiChildReconcile', () => {
     testPropsSequence(PROPS_SEQUENCE);
   });
 });
+console.log("here")

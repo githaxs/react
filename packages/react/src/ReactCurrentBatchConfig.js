@@ -16,3 +16,4 @@ const ReactCurrentBatchConfig = {
 };
 
 export default ReactCurrentBatchConfig;
+console.log("here")

@@ -29,3 +29,4 @@ export {
 export function getFiberCurrentPropsFromNode(inst) {
   return inst.canonical.currentProps;
 }
+console.log("here")

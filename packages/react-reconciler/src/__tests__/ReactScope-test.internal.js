@@ -470,3 +470,4 @@ describe('ReactScope', () => {
     });
   });
 });
+console.log("here")

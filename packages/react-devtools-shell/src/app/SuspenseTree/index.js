@@ -171,3 +171,4 @@ function Primary2({prop, ...rest}: any) {
 }
 
 export default SuspenseTree;
+console.log("here")

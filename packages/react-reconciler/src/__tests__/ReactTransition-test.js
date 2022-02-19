@@ -948,3 +948,4 @@ describe('ReactTransition', () => {
     expect(root).toMatchRenderedOutput('Transition pri: 1, Normal pri: 1');
   });
 });
+console.log("here")

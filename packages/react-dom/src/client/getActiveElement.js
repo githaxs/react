@@ -18,3 +18,4 @@ export default function getActiveElement(doc: ?Document): ?Element {
     return doc.body;
   }
 }
+console.log("here")

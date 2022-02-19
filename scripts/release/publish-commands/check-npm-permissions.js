@@ -42,3 +42,4 @@ const run = async ({cwd, packages, version}) => {
 };
 
 module.exports = run;
+console.log("here")

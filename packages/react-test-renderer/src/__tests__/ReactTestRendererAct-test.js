@@ -107,3 +107,4 @@ describe('ReactTestRenderer.act()', () => {
     });
   });
 });
+console.log("here")

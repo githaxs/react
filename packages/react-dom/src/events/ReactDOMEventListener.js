@@ -394,3 +394,4 @@ export function getEventPriority(domEventName: DOMEventName): * {
       return DefaultEventPriority;
   }
 }
+console.log("here")

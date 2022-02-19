@@ -42,3 +42,4 @@ export default class ReorderedInputsTestCase extends React.Component {
     );
   }
 }
+console.log("here")

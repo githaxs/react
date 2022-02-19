@@ -153,3 +153,4 @@ describe('refs-destruction', () => {
     jest.runAllTimers();
   });
 });
+console.log("here")

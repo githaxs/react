@@ -358,3 +358,4 @@ export function getInstanceFromScope(scopeInstance: Object): null | Object {
 export function detachDeletedInstance(node: Instance): void {
   // noop
 }
+console.log("here")

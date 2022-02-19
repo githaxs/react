@@ -55,3 +55,4 @@ async function unforkFile(oldFilename) {
 }
 
 main();
+console.log("here")

@@ -751,3 +751,4 @@ describe('create-react-class-integration', () => {
     ]);
   });
 });
+console.log("here")

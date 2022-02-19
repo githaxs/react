@@ -115,3 +115,4 @@ export function validateProperties(type, props) {
   }
   warnInvalidARIAProps(type, props);
 }
+console.log("here")

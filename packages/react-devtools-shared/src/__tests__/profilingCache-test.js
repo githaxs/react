@@ -732,3 +732,4 @@ describe('ProfilingCache', () => {
     expect(container.textContent).toBe('About');
   });
 });
+console.log("here")

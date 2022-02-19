@@ -113,3 +113,4 @@ export default function SidebarCommitInfo(_: Props) {
     </Fragment>
   );
 }
+console.log("here")

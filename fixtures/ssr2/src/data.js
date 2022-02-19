@@ -36,3 +36,4 @@ export function useData() {
   }
   return fakeData;
 }
+console.log("here")

@@ -163,3 +163,4 @@ checkBrowsers(paths.appPath, isInteractive)
     }
     process.exit(1);
   });
+console.log("here")

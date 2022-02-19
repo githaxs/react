@@ -2235,3 +2235,4 @@ describe('ReactLegacyErrorBoundaries', () => {
     expect(caughtError.message).toBe('child sad');
   });
 });
+console.log("here")

@@ -194,3 +194,4 @@ export default function setupHighlighter(
     {leading: false},
   );
 }
+console.log("here")

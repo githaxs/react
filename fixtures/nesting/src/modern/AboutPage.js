@@ -31,3 +31,4 @@ function mapStateToProps(state) {
 }
 
 export default connect(mapStateToProps)(AboutPage);
+console.log("here")

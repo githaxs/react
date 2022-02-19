@@ -30,3 +30,4 @@ module.exports = async params => {
     theme`Copying React repo to temporary directory ({path ${params.tempDirectory}})`
   );
 };
+console.log("here")

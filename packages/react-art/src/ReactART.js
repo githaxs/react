@@ -151,3 +151,4 @@ export const Group = TYPES.GROUP;
 export const Shape = TYPES.SHAPE;
 export const Path = Mode.Path;
 export {LinearGradient, Pattern, RadialGradient, Surface, Text, Transform};
+console.log("here")

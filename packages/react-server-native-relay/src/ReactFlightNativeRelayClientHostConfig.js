@@ -67,3 +67,4 @@ const dummy = {};
 export function parseModel<T>(response: Response, json: UninitializedModel): T {
   return (parseModelRecursively(response, dummy, json): any);
 }
+console.log("here")

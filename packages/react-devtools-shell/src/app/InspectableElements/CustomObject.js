@@ -23,3 +23,4 @@ export default function CustomObject() {
 function ChildComponent(props: any) {
   return null;
 }
+console.log("here")

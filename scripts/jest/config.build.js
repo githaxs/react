@@ -64,3 +64,4 @@ module.exports = Object.assign({}, baseConfig, {
     require.resolve('./setupTests.build.js'),
   ],
 });
+console.log("here")

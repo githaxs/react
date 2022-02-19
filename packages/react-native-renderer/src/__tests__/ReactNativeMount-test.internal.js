@@ -693,3 +693,4 @@ describe('ReactNative', () => {
     expect(TextInputState.focusTextInput).toHaveBeenCalledWith(viewRef.current);
   });
 });
+console.log("here")

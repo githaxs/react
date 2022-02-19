@@ -60,3 +60,4 @@ export const writeCompletedBoundaryInstruction =
   $$$hostConfig.writeCompletedBoundaryInstruction;
 export const writeClientRenderBoundaryInstruction =
   $$$hostConfig.writeClientRenderBoundaryInstruction;
+console.log("here")

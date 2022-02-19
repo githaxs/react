@@ -5,3 +5,4 @@ module.exports = () => {
   // jest's `setupFiles` is too late: https://stackoverflow.com/a/56482581/3406963
   process.env.TZ = 'UTC';
 };
+console.log("here")

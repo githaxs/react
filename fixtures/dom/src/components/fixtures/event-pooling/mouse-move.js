@@ -45,3 +45,4 @@ class MouseMove extends React.Component {
 }
 
 export default MouseMove;
+console.log("here")

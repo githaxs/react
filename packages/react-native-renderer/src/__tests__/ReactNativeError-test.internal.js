@@ -87,3 +87,4 @@ describe('ReactNativeError', () => {
     );
   });
 });
+console.log("here")

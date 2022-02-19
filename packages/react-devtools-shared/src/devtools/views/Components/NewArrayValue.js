@@ -105,3 +105,4 @@ export default function NewArrayValue({
     </div>
   );
 }
+console.log("here")

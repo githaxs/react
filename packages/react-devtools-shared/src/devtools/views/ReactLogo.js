@@ -30,3 +30,4 @@ export default function ReactLogo({className}: Props) {
     </svg>
   );
 }
+console.log("here")

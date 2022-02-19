@@ -46,3 +46,4 @@ export function resolveModuleMetaData<T>(
 ): ModuleMetaData {
   return config[moduleReference.filepath][moduleReference.name];
 }
+console.log("here")

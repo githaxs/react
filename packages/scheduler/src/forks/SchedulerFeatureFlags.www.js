@@ -13,3 +13,4 @@ export const {
 } = require('SchedulerFeatureFlags');
 
 export const enableProfiling = __PROFILE__ && enableProfilingFeatureFlag;
+console.log("here")

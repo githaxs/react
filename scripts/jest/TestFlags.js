@@ -98,3 +98,4 @@ function getTestFlags() {
 }
 
 exports.getTestFlags = getTestFlags;
+console.log("here")

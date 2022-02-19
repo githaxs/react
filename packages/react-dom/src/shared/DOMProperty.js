@@ -621,3 +621,4 @@ properties[xlinkHref] = new PropertyInfoRecord(
     true, // removeEmptyString
   );
 });
+console.log("here")

@@ -14,3 +14,4 @@ const server = http.createServer(function onRequest(req, res) {
 
 // Listen
 server.listen(3000);
+console.log("here")

@@ -33,3 +33,4 @@ module.exports = function closure(flags = {}) {
     },
   };
 };
+console.log("here")

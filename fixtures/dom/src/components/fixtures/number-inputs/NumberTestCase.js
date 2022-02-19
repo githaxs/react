@@ -40,3 +40,4 @@ class NumberTestCase extends React.Component {
 }
 
 export default NumberTestCase;
+console.log("here")

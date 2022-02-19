@@ -32,3 +32,4 @@ setInterval(block, interval);
 // expiration time of a low priority update).
 ReactDOM.render(<Counter />, document.getElementById('root'));
 block();
+console.log("here")

@@ -12,3 +12,4 @@
 const flattenStyle = function() {};
 
 module.exports = flattenStyle;
+console.log("here")

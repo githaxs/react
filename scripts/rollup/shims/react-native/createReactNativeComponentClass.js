@@ -31,3 +31,4 @@ const createReactNativeComponentClass = function(
 };
 
 module.exports = createReactNativeComponentClass;
+console.log("here")

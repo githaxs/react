@@ -80,3 +80,4 @@ module.exports = function replaceConsoleCalls(babel) {
     },
   };
 };
+console.log("here")

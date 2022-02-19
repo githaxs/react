@@ -201,3 +201,4 @@ export function getOffscreenDeferredCachePool(): SpawnedCachePool | null {
     pool: pooledCache,
   };
 }
+console.log("here")

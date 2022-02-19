@@ -56,3 +56,4 @@ export function freeThreadID(id: ThreadID) {
   nextAvailableThreadIDs[id] = nextAvailableThreadIDs[0];
   nextAvailableThreadIDs[0] = id;
 }
+console.log("here")

@@ -537,3 +537,4 @@ describe('ReactFlightDOM', () => {
     expect(inputB.value).toBe('goodbye');
   });
 });
+console.log("here")

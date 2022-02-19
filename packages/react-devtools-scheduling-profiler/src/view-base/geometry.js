@@ -126,3 +126,4 @@ export function unionOfRects(...rects: Rect[]): Rect {
     }, rectToBox(firstRect));
   return boxToRect(boxUnion);
 }
+console.log("here")

@@ -10,3 +10,4 @@
 
 /*:: export type ErrorMap = { [id: string]: string, ... }; */
 
+console.log("here")

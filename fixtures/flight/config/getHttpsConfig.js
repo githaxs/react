@@ -64,3 +64,4 @@ function getHttpsConfig() {
 }
 
 module.exports = getHttpsConfig;
+console.log("here")

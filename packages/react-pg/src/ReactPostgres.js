@@ -123,3 +123,4 @@ Pool.prototype.query = function(query: string, values?: Array<mixed>) {
   const result = readRecordValue(record);
   return result;
 };
+console.log("here")

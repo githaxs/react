@@ -39,3 +39,4 @@ export {
   isSuspense,
   isSuspenseList,
 } from './src/ReactIs';
+console.log("here")

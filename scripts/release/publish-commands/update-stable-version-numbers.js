@@ -50,3 +50,4 @@ const run = async ({cwd, packages, skipPackages, tags}) => {
 };
 
 module.exports = run;
+console.log("here")

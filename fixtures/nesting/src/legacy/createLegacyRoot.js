@@ -41,3 +41,4 @@ export default function createLegacyRoot(container) {
     },
   };
 }
+console.log("here")

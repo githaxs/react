@@ -121,3 +121,4 @@ exports.get = function(name: string): ReactNativeBaseComponentViewConfig<> {
   invariant(viewConfig, 'View config not found for name %s', name);
   return viewConfig;
 };
+console.log("here")

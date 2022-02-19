@@ -90,3 +90,4 @@ ruleTester.run('eslint-rules/warning-args', rule, {
     },
   ],
 });
+console.log("here")

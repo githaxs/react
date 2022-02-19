@@ -19,3 +19,4 @@ export function Component() {
     </div>
   );
 }
+console.log("here")

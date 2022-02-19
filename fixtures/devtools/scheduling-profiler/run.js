@@ -76,3 +76,4 @@ function initServer() {
 
 initDependencies();
 initServer();
+console.log("here")

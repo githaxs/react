@@ -383,3 +383,4 @@ const loadCheckInterval = setInterval(function() {
 }, 1000);
 
 createPanelIfReactLoaded();
+console.log("here")

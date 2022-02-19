@@ -36,3 +36,4 @@ export default class Page extends Component {
   }
 }
 Page.contextType = Theme;
+console.log("here")

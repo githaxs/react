@@ -50,3 +50,4 @@ function shallowEqual(objA: mixed, objB: mixed): boolean {
 }
 
 export default shallowEqual;
+console.log("here")

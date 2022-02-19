@@ -35,3 +35,4 @@ const setTextContent = function(node: Element, text: string): void {
 };
 
 export default setTextContent;
+console.log("here")

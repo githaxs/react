@@ -427,3 +427,4 @@ describe('ReactFunctionComponent', () => {
     expect(() => ReactTestUtils.renderIntoDocument(<Child />)).not.toThrow();
   });
 });
+console.log("here")

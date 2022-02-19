@@ -10,3 +10,4 @@ export default function useTimer() {
   }, []);
   return value.toLocaleTimeString();
 }
+console.log("here")

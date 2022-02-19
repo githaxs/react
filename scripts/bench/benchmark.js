@@ -128,3 +128,4 @@ async function runBenchmark(benchmark, headless) {
 }
 
 module.exports = runBenchmark;
+console.log("here")

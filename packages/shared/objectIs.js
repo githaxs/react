@@ -21,3 +21,4 @@ const objectIs: (x: any, y: any) => boolean =
   typeof Object.is === 'function' ? Object.is : is;
 
 export default objectIs;
+console.log("here")

@@ -166,3 +166,4 @@ describe('ReactDOMServerIntegrationLegacyContextDisabled', () => {
     expect(lifecycleContextLog).toEqual([]);
   });
 });
+console.log("here")

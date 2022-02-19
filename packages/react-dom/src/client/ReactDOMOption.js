@@ -66,3 +66,4 @@ export function postMountWrapper(element: Element, props: Object) {
     element.setAttribute('value', toString(getToStringValue(props.value)));
   }
 }
+console.log("here")

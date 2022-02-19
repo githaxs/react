@@ -34,3 +34,4 @@ describe('when different React version is used with string ref', () => {
     );
   });
 });
+console.log("here")

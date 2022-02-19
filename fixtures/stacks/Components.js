@@ -28,3 +28,4 @@ class FrozenClass extends React.Component {
   }
 }
 Object.freeze(FrozenClass.prototype);
+console.log("here")

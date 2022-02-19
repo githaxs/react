@@ -64,3 +64,4 @@ describe('escapeTextForBrowser', () => {
     );
   });
 });
+console.log("here")

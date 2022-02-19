@@ -16,4 +16,4 @@ function Component(props) {
   return null;
 }
 
-module.exports = {Component};
+module.exports = {Component};console.log("here")

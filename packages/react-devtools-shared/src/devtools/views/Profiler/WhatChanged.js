@@ -165,3 +165,4 @@ export default function WhatChanged({fiberID}: Props) {
     </div>
   );
 }
+console.log("here")

@@ -173,3 +173,4 @@ describe('ReactSuspenseWithNoopRenderer', () => {
     expect(root).toMatchRenderedOutput('Async');
   });
 });
+console.log("here")

@@ -33,3 +33,4 @@ export const readInputData = (file: File): Promise<string> => {
     fileReader.readAsText(file);
   });
 };
+console.log("here")

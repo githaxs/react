@@ -249,3 +249,4 @@ test('regression (#20932): return pointer is correct before entering deleted tre
     'Loading Async...',
   ]);
 });
+console.log("here")

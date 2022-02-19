@@ -201,3 +201,4 @@ function extractEvents(
 }
 
 export {registerEvents, extractEvents};
+console.log("here")

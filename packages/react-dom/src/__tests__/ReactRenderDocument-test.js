@@ -244,3 +244,4 @@ describe('rendering React components at document', () => {
     });
   });
 });
+console.log("here")

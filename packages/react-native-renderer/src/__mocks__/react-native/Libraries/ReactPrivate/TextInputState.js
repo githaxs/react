@@ -16,3 +16,4 @@ const TextInputState = {
 };
 
 module.exports = TextInputState;
+console.log("here")

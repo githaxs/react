@@ -24,3 +24,4 @@ Object.defineProperty(
     },
   }: Object),
 );
+console.log("here")

@@ -51,3 +51,4 @@ const run = async ({cwd, dry, tempDirectory}) => {
 module.exports = async params => {
   return logPromise(run(params), 'Packing artifacts');
 };
+console.log("here")

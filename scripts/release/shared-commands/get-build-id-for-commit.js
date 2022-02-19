@@ -66,3 +66,4 @@ async function getBuildIdForCommit(sha) {
 }
 
 module.exports = getBuildIdForCommit;
+console.log("here")

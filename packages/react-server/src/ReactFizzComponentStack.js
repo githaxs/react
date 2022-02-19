@@ -59,3 +59,4 @@ export function getStackByComponentStackNode(
     return '\nError generating stack: ' + x.message + '\n' + x.stack;
   }
 }
+console.log("here")

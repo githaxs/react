@@ -333,3 +333,4 @@ describe('ProfilerContext', () => {
     expect(selectedElementID).toBe(parentID);
   });
 });
+console.log("here")

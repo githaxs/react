@@ -609,3 +609,4 @@ function getFunctionName(node) {
 function last(array) {
   return array[array.length - 1];
 }
+console.log("here")

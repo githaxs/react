@@ -45,3 +45,4 @@ export type ReactSyntheticEvent = {|
   type: string,
   currentTarget: null | EventTarget,
 |};
+console.log("here")

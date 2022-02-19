@@ -38,3 +38,4 @@ export default function ContextMenuItem({children, onClick, title}: Props) {
     </div>
   );
 }
+console.log("here")

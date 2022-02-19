@@ -8,3 +8,4 @@
  */
 
 export * from 'react-art/src/ReactARTHostConfig';
+console.log("here")

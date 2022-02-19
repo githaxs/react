@@ -126,3 +126,4 @@ export function getElementDimensions(domElement: Element) {
     paddingBottom: parseInt(calculatedStyle.paddingBottom, 10),
   };
 }
+console.log("here")

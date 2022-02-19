@@ -8,3 +8,4 @@
  */
 
 export * from 'react-test-renderer/src/ReactTestHostConfig';
+console.log("here")

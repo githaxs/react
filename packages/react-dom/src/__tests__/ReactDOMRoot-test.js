@@ -343,3 +343,4 @@ describe('ReactDOMRoot', () => {
     expect(container.textContent).toEqual('b');
   });
 });
+console.log("here")

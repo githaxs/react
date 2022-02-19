@@ -132,3 +132,4 @@ function CommitFlamegraphListItem({data, index, style}: Props) {
 }
 
 export default memo<Props>(CommitFlamegraphListItem, areEqual);
+console.log("here")

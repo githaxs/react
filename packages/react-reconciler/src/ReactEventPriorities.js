@@ -72,3 +72,4 @@ export function isHigherEventPriority(
     ? isHigherEventPriority_new((a: any), (b: any))
     : isHigherEventPriority_old((a: any), (b: any));
 }
+console.log("here")

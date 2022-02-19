@@ -76,3 +76,4 @@ const run = async ({cwd}) => {
 };
 
 module.exports = run;
+console.log("here")

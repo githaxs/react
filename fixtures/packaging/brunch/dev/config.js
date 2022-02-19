@@ -8,3 +8,4 @@ exports.config = {
     },
   },
 };
+console.log("here")

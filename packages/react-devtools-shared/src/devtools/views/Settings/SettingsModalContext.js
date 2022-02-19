@@ -38,3 +38,4 @@ function SettingsModalContextController({children}: {|children: React$Node|}) {
 }
 
 export {SettingsModalContext, SettingsModalContextController};
+console.log("here")

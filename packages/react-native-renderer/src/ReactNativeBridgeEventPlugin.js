@@ -171,3 +171,4 @@ const ReactNativeBridgeEventPlugin = {
 };
 
 export default ReactNativeBridgeEventPlugin;
+console.log("here")

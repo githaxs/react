@@ -131,3 +131,4 @@ export function createResponse(): Response {
 }
 
 export {reportGlobalError, close} from './ReactFlightClient';
+console.log("here")

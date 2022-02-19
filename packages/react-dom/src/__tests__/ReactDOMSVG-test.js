@@ -225,3 +225,4 @@ describe('ReactDOMSVG', () => {
     expect(div.tagName).toBe('DIV');
   });
 });
+console.log("here")

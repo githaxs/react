@@ -12,3 +12,4 @@ function reducer(state = 0, action) {
 // Because this file is declared above both Modern and Legacy folders,
 // we can import this from either folder without duplicating the object.
 export const store = createStore(reducer);
+console.log("here")

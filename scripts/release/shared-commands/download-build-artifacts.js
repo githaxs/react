@@ -65,3 +65,4 @@ module.exports = async ({build, commit, cwd, releaseChannel}) => {
     theme`Downloading artifacts from Circle CI for ${buildLabel}`
   );
 };
+console.log("here")

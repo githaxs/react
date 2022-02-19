@@ -120,3 +120,4 @@ ruleTester.run('eslint-rules/no-cross-fork-imports', rule, {
     },
   ],
 });
+console.log("here")

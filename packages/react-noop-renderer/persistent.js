@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactNoopPersistent';
+console.log("here")

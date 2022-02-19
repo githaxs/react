@@ -79,3 +79,4 @@ describe('isomorphic act()', () => {
     expect(returnValue).toEqual('hi');
   });
 });
+console.log("here")

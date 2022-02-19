@@ -78,3 +78,4 @@ export default function ElementTypes() {
     </Profiler>
   );
 }
+console.log("here")

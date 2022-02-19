@@ -48,3 +48,4 @@ module.exports = function(context) {
     NewExpression: check,
   };
 };
+console.log("here")

@@ -285,3 +285,4 @@ describe('ReactDOMTextComponent', () => {
     expect(el.innerHTML).toBe('<div></div>');
   });
 });
+console.log("here")

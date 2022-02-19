@@ -29,3 +29,4 @@ export default function hyphenateStyleName(name: string): string {
     .toLowerCase()
     .replace(msPattern, '-ms-');
 }
+console.log("here")

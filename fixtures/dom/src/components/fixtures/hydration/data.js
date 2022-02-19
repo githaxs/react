@@ -20,3 +20,4 @@ class Fixture extends React.Component {
   }
 }
 `.trim();
+console.log("here")

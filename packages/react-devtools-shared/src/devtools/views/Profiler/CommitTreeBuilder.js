@@ -381,3 +381,4 @@ const __printTree = (commitTree: CommitTree) => {
     console.groupEnd();
   }
 };
+console.log("here")

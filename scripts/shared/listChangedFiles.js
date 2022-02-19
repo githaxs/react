@@ -34,3 +34,4 @@ const listChangedFiles = () => {
 };
 
 module.exports = listChangedFiles;
+console.log("here")

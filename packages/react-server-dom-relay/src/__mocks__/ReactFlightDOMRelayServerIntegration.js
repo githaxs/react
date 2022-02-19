@@ -18,3 +18,4 @@ const ReactFlightDOMRelayServerIntegration = {
 };
 
 module.exports = ReactFlightDOMRelayServerIntegration;
+console.log("here")

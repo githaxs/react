@@ -220,3 +220,4 @@ describe('created with ReactNative called with ReactFabric', () => {
     expect(nativeFabricUIManager.sendAccessibilityEvent).not.toBeCalled();
   });
 });
+console.log("here")

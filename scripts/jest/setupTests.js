@@ -311,3 +311,4 @@ if (process.env.REACT_CLASS_EQUIVALENCE_TEST) {
 
   require('jasmine-check').install();
 }
+console.log("here")

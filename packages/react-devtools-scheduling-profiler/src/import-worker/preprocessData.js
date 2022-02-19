@@ -496,3 +496,4 @@ export default function preprocessData(
 
   return profilerData;
 }
+console.log("here")

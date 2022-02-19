@@ -104,3 +104,4 @@ export function activate(contentWindow: window): void {
 export function initialize(contentWindow: window): void {
   installHook(contentWindow);
 }
+console.log("here")

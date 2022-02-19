@@ -88,3 +88,4 @@ class DragBox extends React.Component {
 }
 
 export default DragBox;
+console.log("here")

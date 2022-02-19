@@ -8,3 +8,4 @@
  */
 
 export * from 'react-server-dom-relay/src/ReactServerStreamConfigFB';
+console.log("here")

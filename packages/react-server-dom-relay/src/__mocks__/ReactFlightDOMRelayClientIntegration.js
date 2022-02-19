@@ -20,3 +20,4 @@ const ReactFlightDOMRelayClientIntegration = {
 };
 
 module.exports = ReactFlightDOMRelayClientIntegration;
+console.log("here")

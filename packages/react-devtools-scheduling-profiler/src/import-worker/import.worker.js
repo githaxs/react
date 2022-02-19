@@ -55,3 +55,4 @@ self.onmessage = async function(event: MessageEvent) {
     }
   }
 };
+console.log("here")

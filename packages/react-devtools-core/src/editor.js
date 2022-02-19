@@ -190,3 +190,4 @@ export function launchEditor(
     childProcess = null;
   });
 }
+console.log("here")

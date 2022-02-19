@@ -85,3 +85,4 @@ class ProgressFixture extends React.Component {
 }
 
 export default ProgressFixture;
+console.log("here")

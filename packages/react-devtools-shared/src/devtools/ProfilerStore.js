@@ -346,3 +346,4 @@ export default class ProfilerStore extends EventEmitter<{|
     }
   };
 }
+console.log("here")

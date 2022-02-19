@@ -6,3 +6,4 @@
  */
 
 export * from './src/ReactFreshRuntime';
+console.log("here")

@@ -32,3 +32,4 @@ export default function ProfilePage(props) {
     </>
   );
 }
+console.log("here")

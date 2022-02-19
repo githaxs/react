@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFlightDOMClient';
+console.log("here")

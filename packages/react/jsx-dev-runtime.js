@@ -8,3 +8,4 @@
  */
 
 export {Fragment, jsxDEV} from './src/jsx/ReactJSX';
+console.log("here")

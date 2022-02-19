@@ -16,3 +16,4 @@ const presets = ['es2015', 'stage-3', 'react'];
 export function compile(raw) {
   return transform(raw, {presets}).code;
 }
+console.log("here")

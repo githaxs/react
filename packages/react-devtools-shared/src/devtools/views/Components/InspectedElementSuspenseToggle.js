@@ -68,3 +68,4 @@ export default function InspectedElementSuspenseToggle({
     </div>
   );
 }
+console.log("here")

@@ -879,3 +879,4 @@ describe('ReactHooksInspectionIntegration', () => {
     ]);
   });
 });
+console.log("here")

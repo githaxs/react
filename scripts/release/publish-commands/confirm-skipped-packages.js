@@ -29,3 +29,4 @@ const run = async ({cwd, packages, skipPackages, tags}) => {
 // Run this directly because it's fast,
 // and logPromise would interfere with console prompting.
 module.exports = run;
+console.log("here")

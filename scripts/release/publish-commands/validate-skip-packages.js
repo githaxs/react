@@ -57,3 +57,4 @@ const run = async ({cwd, packages, skipPackages}) => {
 };
 
 module.exports = run;
+console.log("here")

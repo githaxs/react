@@ -91,3 +91,4 @@ export const PassiveMask = Passive | ChildDeletion;
 // This allows certain concepts to persist without recalculting them,
 // e.g. whether a subtree contains passive effects or portals.
 export const StaticMask = LayoutStatic | PassiveStatic | RefStatic;
+console.log("here")

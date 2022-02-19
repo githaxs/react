@@ -771,3 +771,4 @@ it('should warn when owner and self are different for string refs', () => {
     ReactDOM.render(<ClassParent />, container);
   }
 });
+console.log("here")

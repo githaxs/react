@@ -8,3 +8,4 @@
  */
 
 export * from './src/test-utils/ReactTestUtils';
+console.log("here")

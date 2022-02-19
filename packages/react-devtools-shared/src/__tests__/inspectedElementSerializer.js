@@ -33,3 +33,4 @@ export function print(inspectedElement, serialize, indent) {
     state: inspectedElement.state,
   });
 }
+console.log("here")

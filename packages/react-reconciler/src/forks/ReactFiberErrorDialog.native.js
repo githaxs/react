@@ -36,3 +36,4 @@ export function showErrorDialog(
   };
   return RNImpl.showErrorDialog(capturedError);
 }
+console.log("here")

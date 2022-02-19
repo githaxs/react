@@ -26,3 +26,4 @@ export default function PostList({posts}) {
     </SuspenseList>
   );
 }
+console.log("here")

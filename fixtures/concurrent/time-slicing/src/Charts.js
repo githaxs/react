@@ -124,3 +124,4 @@ export default class Charts extends PureComponent {
     );
   }
 }
+console.log("here")

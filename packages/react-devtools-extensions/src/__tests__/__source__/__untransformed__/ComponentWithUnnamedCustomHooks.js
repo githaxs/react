@@ -26,4 +26,4 @@ function useCustomHookTwo() {
   return [true];
 }
 
-module.exports = {Component};
+module.exports = {Component};console.log("here")

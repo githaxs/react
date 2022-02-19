@@ -34,3 +34,4 @@ class RangeInputs extends React.Component {
 }
 
 export default RangeInputs;
+console.log("here")

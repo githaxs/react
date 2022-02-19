@@ -40,3 +40,4 @@ function isEventSupported(eventNameSuffix: string): boolean {
 }
 
 export default isEventSupported;
+console.log("here")

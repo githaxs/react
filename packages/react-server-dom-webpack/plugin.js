@@ -8,3 +8,4 @@
  */
 
 export {default} from './src/ReactFlightWebpackPlugin';
+console.log("here")

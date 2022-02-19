@@ -58,3 +58,4 @@ export {
   version,
 } from './src/React';
 export {jsx, jsxs, jsxDEV} from './src/jsx/ReactJSX';
+console.log("here")

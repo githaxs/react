@@ -81,3 +81,4 @@ function CommitRankedListItem({data, index, style}: Props) {
 }
 
 export default memo<Props>(CommitRankedListItem, areEqual);
+console.log("here")

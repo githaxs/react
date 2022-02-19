@@ -15,3 +15,4 @@ export function Component() {
 
   return <div>theme: {theme}</div>;
 }
+console.log("here")

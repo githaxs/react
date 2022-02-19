@@ -498,3 +498,4 @@ describe('ReactElement', () => {
     expect(React.isValidElement(JSON.parse(jsonElement))).toBe(false);
   });
 });
+console.log("here")

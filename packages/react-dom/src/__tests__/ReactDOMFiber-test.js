@@ -1379,3 +1379,4 @@ describe('ReactDOMFiber', () => {
     expect(container.textContent).toBe('new');
   });
 });
+console.log("here")

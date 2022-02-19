@@ -21,3 +21,4 @@ export function saveModule(render: Function): string {
 export function readModule(idx: string): Function {
   return modules.get(idx);
 }
+console.log("here")

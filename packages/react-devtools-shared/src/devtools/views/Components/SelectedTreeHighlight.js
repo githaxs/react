@@ -106,3 +106,4 @@ export default function SelectedTreeHighlight(_: {||}) {
     />
   );
 }
+console.log("here")

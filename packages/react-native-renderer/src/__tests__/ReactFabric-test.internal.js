@@ -980,3 +980,4 @@ describe('ReactFabric', () => {
     expect(TextInputState.focusTextInput).toHaveBeenCalledWith(viewRef.current);
   });
 });
+console.log("here")

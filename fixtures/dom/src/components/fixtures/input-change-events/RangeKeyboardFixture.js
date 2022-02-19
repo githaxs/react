@@ -77,3 +77,4 @@ class RangeKeyboardFixture extends React.Component {
 }
 
 export default RangeKeyboardFixture;
+console.log("here")

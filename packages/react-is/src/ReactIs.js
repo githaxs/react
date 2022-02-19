@@ -146,3 +146,4 @@ export function isSuspense(object: any) {
 export function isSuspenseList(object: any) {
   return typeOf(object) === REACT_SUSPENSE_LIST_TYPE;
 }
+console.log("here")

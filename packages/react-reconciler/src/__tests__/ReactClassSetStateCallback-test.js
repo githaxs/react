@@ -47,3 +47,4 @@ describe('ReactClassSetStateCallback', () => {
     expect(Scheduler).toHaveYielded([2, 'Callback 2', 2, 'Callback 1']);
   });
 });
+console.log("here")

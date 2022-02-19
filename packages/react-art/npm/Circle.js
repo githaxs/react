@@ -51,3 +51,4 @@ var Circle = createReactClass({
 });
 
 module.exports = Circle;
+console.log("here")

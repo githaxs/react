@@ -75,3 +75,4 @@ function compareResults(a, b) {
 
   expect(aSpecs).toEqual(bSpecs);
 }
+console.log("here")

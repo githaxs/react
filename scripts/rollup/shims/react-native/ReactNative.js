@@ -21,3 +21,4 @@ if (__DEV__) {
 }
 
 module.exports = (ReactNative: ReactNativeType);
+console.log("here")

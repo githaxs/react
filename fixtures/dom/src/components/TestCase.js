@@ -152,3 +152,4 @@ TestCase.ExpectedResult = class extends React.Component {
   }
 };
 export default TestCase;
+console.log("here")

@@ -26,3 +26,4 @@ export default function Post() {
     </>
   );
 }
+console.log("here")

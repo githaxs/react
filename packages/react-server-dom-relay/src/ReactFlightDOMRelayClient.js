@@ -35,3 +35,4 @@ export function resolveRow(response: Response, chunk: RowEncoding): void {
     resolveError(response, chunk[1], chunk[2].message, chunk[2].stack);
   }
 }
+console.log("here")

@@ -21,3 +21,4 @@ export function resolveDefaultProps(Component: any, baseProps: Object): Object {
   }
   return baseProps;
 }
+console.log("here")

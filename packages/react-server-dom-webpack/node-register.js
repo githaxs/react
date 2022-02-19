@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFlightWebpackNodeRegister';
+console.log("here")

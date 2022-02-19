@@ -69,3 +69,4 @@ export const scheduleRoot = enableNewReconciler
 export const findHostInstancesForRefresh = enableNewReconciler
   ? findHostInstancesForRefresh_new
   : findHostInstancesForRefresh_old;
+console.log("here")

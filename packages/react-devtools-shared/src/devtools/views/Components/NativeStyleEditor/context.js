@@ -203,3 +203,4 @@ function NativeStyleContextController({children}: Props) {
 }
 
 export {NativeStyleContext, NativeStyleContextController};
+console.log("here")

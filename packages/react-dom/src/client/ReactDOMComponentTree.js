@@ -257,3 +257,4 @@ export function doesTargetHaveEventHandle(
   }
   return eventHandles.has(eventHandle);
 }
+console.log("here")

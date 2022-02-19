@@ -55,3 +55,4 @@ class RadioGroupFixture extends React.Component {
 }
 
 export default RadioGroupFixture;
+console.log("here")

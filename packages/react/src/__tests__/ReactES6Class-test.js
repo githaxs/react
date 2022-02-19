@@ -584,3 +584,4 @@ describe('ReactES6Class', () => {
     expect(node).toBe(container.firstChild);
   });
 });
+console.log("here")

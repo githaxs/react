@@ -91,3 +91,4 @@ function getVendorPrefixedEventName(eventName) {
 }
 
 export default getVendorPrefixedEventName;
+console.log("here")

@@ -89,3 +89,4 @@ declare module 'ReactFlightNativeRelayClientIntegration' {
     moduleReference: JSResourceReference<T>,
   ): T;
 }
+console.log("here")

@@ -24,3 +24,4 @@ export default function Sidebar() {
     </>
   );
 }
+console.log("here")

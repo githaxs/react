@@ -28,3 +28,4 @@ export function getBrowserTheme(): BrowserTheme {
     }
   }
 }
+console.log("here")

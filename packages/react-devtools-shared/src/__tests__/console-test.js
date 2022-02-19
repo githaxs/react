@@ -466,3 +466,4 @@ describe('console', () => {
     expect(mockWarn.mock.calls[0][0]).toBe('Symbol:');
   });
 });
+console.log("here")

@@ -540,3 +540,4 @@ describe('ReactCompositeComponent-state', () => {
     expect(el.textContent).toBe('B No Sibling');
   });
 });
+console.log("here")

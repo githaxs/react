@@ -499,3 +499,4 @@ export function preparePortalMount(portalInstance: Instance): void {
 export function detachDeletedInstance(node: Instance): void {
   // noop
 }
+console.log("here")

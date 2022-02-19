@@ -43,3 +43,4 @@ export const supportsBinaryStreams = $$$hostConfig.supportsBinaryStreams;
 export const createStringDecoder = $$$hostConfig.createStringDecoder;
 export const readPartialStringChunk = $$$hostConfig.readPartialStringChunk;
 export const readFinalStringChunk = $$$hostConfig.readFinalStringChunk;
+console.log("here")

@@ -209,3 +209,4 @@ function copyPublicFolder() {
     filter: file => file !== paths.appHtml,
   });
 }
+console.log("here")

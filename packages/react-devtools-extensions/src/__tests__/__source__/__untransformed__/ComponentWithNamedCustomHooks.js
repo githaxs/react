@@ -28,4 +28,4 @@ function useCustomHookTwo() {
   return [baz, setBaz];
 }
 
-module.exports = {Component};
+module.exports = {Component};console.log("here")

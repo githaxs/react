@@ -29,3 +29,4 @@ export function isEndish(topLevelType: mixed): boolean {
 export const startDependencies = [TOP_TOUCH_START];
 export const moveDependencies = [TOP_TOUCH_MOVE];
 export const endDependencies = [TOP_TOUCH_CANCEL, TOP_TOUCH_END];
+console.log("here")

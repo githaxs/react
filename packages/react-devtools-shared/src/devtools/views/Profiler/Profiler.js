@@ -188,3 +188,4 @@ const RecordingInProgress = () => (
 );
 
 export default portaledContent(Profiler);
+console.log("here")

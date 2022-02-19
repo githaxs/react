@@ -26,3 +26,4 @@ export const NormalPriority = Scheduler.unstable_NormalPriority;
 export const LowPriority = Scheduler.unstable_LowPriority;
 export const IdlePriority = Scheduler.unstable_IdlePriority;
 export type SchedulerCallback = (isSync: boolean) => SchedulerCallback | null;
+console.log("here")

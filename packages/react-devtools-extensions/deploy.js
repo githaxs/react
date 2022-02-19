@@ -56,3 +56,4 @@ const main = async buildId => {
 };
 
 module.exports = main;
+console.log("here")

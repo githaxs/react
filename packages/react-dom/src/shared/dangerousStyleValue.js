@@ -45,3 +45,4 @@ function dangerousStyleValue(name, value, isCustomProperty) {
 }
 
 export default dangerousStyleValue;
+console.log("here")

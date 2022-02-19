@@ -111,3 +111,4 @@ export default class ProfilingCache {
     invalidateRankedChartData();
   }
 }
+console.log("here")

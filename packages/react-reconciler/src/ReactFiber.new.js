@@ -818,3 +818,4 @@ export function assignFiberPropertiesInDEV(
   target._debugHookTypes = source._debugHookTypes;
   return target;
 }
+console.log("here")

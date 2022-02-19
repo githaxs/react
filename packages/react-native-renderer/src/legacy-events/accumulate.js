@@ -44,3 +44,4 @@ function accumulate<T>(
 }
 
 export default accumulate;
+console.log("here")

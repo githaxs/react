@@ -39,3 +39,4 @@ export default class SimpleValues extends Component {
 function ChildComponent(props: any) {
   return null;
 }
+console.log("here")

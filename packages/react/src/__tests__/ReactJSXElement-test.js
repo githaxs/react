@@ -201,3 +201,4 @@ describe('ReactJSXElement', () => {
     expect(inst2.props.prop).toBe(null);
   });
 });
+console.log("here")

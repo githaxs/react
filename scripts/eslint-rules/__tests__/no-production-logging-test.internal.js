@@ -292,3 +292,4 @@ ruleTester.run('no-production-logging', rule, {
     },
   ],
 });
+console.log("here")

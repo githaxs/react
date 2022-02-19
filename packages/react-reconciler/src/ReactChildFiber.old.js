@@ -1380,3 +1380,4 @@ export function resetChildFibers(workInProgress: Fiber, lanes: Lanes): void {
     child = child.sibling;
   }
 }
+console.log("here")

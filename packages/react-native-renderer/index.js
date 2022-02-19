@@ -14,3 +14,4 @@ import * as ReactNative from './src/ReactNativeRenderer';
 (ReactNative: ReactNativeType);
 
 export * from './src/ReactNativeRenderer';
+console.log("here")

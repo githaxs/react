@@ -109,3 +109,4 @@ export default function describeFibers(rootFiber, workInProgress) {
     workInProgressID,
   };
 }
+console.log("here")

@@ -6,3 +6,4 @@
  */
 
 export default require('ReactCurrentOwner');
+console.log("here")

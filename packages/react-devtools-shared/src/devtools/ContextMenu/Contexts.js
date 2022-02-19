@@ -71,3 +71,4 @@ export const RegistryContext = createContext<RegistryContextType>({
   showMenu,
   registerMenu,
 });
+console.log("here")

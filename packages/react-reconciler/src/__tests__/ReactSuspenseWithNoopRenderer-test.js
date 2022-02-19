@@ -4112,3 +4112,4 @@ describe('ReactSuspenseWithNoopRenderer', () => {
     expect(Scheduler).toHaveYielded(['Unmount Child']);
   });
 });
+console.log("here")

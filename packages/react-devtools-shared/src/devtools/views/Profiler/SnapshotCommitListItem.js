@@ -97,3 +97,4 @@ function SnapshotCommitListItem({data: itemData, index, style}: Props) {
 }
 
 export default memo<Props>(SnapshotCommitListItem, areEqual);
+console.log("here")

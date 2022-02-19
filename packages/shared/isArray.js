@@ -17,3 +17,4 @@ function isArray(a: mixed): boolean {
 }
 
 export default isArray;
+console.log("here")

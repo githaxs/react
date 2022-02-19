@@ -259,3 +259,4 @@ if (__DEV__) {
 }
 
 export {getInspectorDataForViewAtPoint, getInspectorDataForViewTag};
+console.log("here")

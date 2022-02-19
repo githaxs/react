@@ -21,3 +21,4 @@ export type UninitializedModel = string;
 export function parseModel<T>(response: Response, json: UninitializedModel): T {
   return JSON.parse(json, response._fromJSON);
 }
+console.log("here")

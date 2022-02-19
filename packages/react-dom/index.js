@@ -28,3 +28,4 @@ export {
   unstable_scheduleHydration,
   version,
 } from './src/client/ReactDOM';
+console.log("here")

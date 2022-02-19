@@ -9,3 +9,4 @@
 export default function Layout({children}) {
   return <main>{children}</main>;
 }
+console.log("here")

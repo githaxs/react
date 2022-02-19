@@ -23,3 +23,4 @@ export function print(state, serialize, indent) {
 
   return printStore(store, false, state);
 }
+console.log("here")

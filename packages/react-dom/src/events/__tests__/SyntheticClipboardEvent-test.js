@@ -118,3 +118,4 @@ describe('SyntheticClipboardEvent', () => {
     });
   });
 });
+console.log("here")

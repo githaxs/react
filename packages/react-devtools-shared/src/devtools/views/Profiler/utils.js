@@ -257,3 +257,4 @@ export const scale = (
   maxValue - minValue === 0
     ? fallbackValue
     : ((value - minValue) / (maxValue - minValue)) * (maxRange - minRange);
+console.log("here")

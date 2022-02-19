@@ -8,3 +8,4 @@
  */
 
 export * from 'react-dom/src/client/ReactDOMHostConfig';
+console.log("here")

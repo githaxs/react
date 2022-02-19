@@ -37,3 +37,4 @@ class EmailDisabledAttributesTestCase extends React.Component {
 }
 
 export default EmailDisabledAttributesTestCase;
+console.log("here")

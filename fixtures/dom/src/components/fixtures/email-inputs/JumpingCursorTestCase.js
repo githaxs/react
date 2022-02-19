@@ -37,3 +37,4 @@ class JumpingCursorTestCase extends React.Component {
 }
 
 export default JumpingCursorTestCase;
+console.log("here")

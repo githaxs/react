@@ -5,3 +5,4 @@ if (process.env.NODE_ENV === 'production') {
 } else {
   module.exports = require('./cjs/react-pg.node.development.server.js');
 }
+console.log("here")

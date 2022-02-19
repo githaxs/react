@@ -2672,3 +2672,4 @@ describe('ReactDOMServerPartialHydration', () => {
     expect(ref.current.innerHTML).toBe('Hidden child');
   });
 });
+console.log("here")

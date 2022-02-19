@@ -6,3 +6,4 @@
  */
 
 export {default} from './src/ReactFreshBabelPlugin';
+console.log("here")

@@ -294,3 +294,4 @@ function mergeDirsSync(source, destination) {
     }
   }
 }
+console.log("here")

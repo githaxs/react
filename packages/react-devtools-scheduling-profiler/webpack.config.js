@@ -126,3 +126,4 @@ if (shouldUseDevServer) {
 }
 
 module.exports = config;
+console.log("here")

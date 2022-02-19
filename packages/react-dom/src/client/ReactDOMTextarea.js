@@ -164,3 +164,4 @@ export function restoreControlledState(element: Element, props: Object) {
   // DOM component is still mounted; update
   updateWrapper(element, props);
 }
+console.log("here")

@@ -46,3 +46,4 @@ export function sessionStorageSetItem(key: string, value: any): void {
     return sessionStorage.setItem(key, value);
   } catch (error) {}
 }
+console.log("here")

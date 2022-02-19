@@ -27,3 +27,4 @@ describe(clamp, () => {
     expect(clamp(0.1, 1.1, 1.15)).toBe(1.1);
   });
 });
+console.log("here")

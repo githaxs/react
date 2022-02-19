@@ -32,3 +32,4 @@ class DrawBox extends React.Component {
 }
 
 export default DrawBox;
+console.log("here")

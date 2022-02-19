@@ -559,3 +559,4 @@ export function observeVisibleRects(
     },
   };
 }
+console.log("here")

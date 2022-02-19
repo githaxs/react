@@ -205,3 +205,4 @@ export function restoreControlledState(element: Element, props: Object) {
     updateOptions(node, !!props.multiple, value, false);
   }
 }
+console.log("here")

@@ -293,3 +293,4 @@ export default class ReactFlightWebpackPlugin {
     );
   }
 }
+console.log("here")

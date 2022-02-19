@@ -37,3 +37,4 @@ class PasswordTestCase extends React.Component {
 }
 
 export default PasswordTestCase;
+console.log("here")

@@ -144,3 +144,4 @@ describe('profiling HostRoot', () => {
     }
   });
 });
+console.log("here")

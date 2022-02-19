@@ -8,3 +8,4 @@
  */
 
 export * from 'react-native-renderer/src/server/ReactNativeServerFormatConfig';
+console.log("here")

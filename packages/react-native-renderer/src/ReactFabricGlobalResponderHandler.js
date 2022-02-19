@@ -48,3 +48,4 @@ const ReactFabricGlobalResponderHandler = {
 };
 
 export default ReactFabricGlobalResponderHandler;
+console.log("here")

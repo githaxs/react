@@ -23,3 +23,4 @@ const createMicrosoftUnsafeLocalFunction = function(func) {
 };
 
 export default createMicrosoftUnsafeLocalFunction;
+console.log("here")

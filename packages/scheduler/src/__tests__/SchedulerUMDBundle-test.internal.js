@@ -52,3 +52,4 @@ describe('Scheduling UMD bundle', () => {
     ]);
   });
 });
+console.log("here")

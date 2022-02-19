@@ -13,3 +13,4 @@ const ReactNativeEventPluginOrder = [
 ];
 
 export default ReactNativeEventPluginOrder;
+console.log("here")

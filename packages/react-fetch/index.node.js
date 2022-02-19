@@ -10,3 +10,4 @@
 'use strict';
 
 export * from './src/ReactFetchNode';
+console.log("here")

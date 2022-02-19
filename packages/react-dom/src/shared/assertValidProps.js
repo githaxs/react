@@ -60,3 +60,4 @@ function assertValidProps(tag: string, props: ?Object) {
 }
 
 export default assertValidProps;
+console.log("here")

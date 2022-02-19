@@ -192,3 +192,4 @@ export function setSelection(input, offsets) {
     setOffsets(input, offsets);
   }
 }
+console.log("here")

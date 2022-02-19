@@ -87,3 +87,4 @@ module.exports = {
   asyncMkDirP,
   asyncRimRaf,
 };
+console.log("here")

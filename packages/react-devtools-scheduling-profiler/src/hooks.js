@@ -69,3 +69,4 @@ export function useDisplayDensity(): void {
     updateDisplayDensity('comfortable', documentElements);
   }, []);
 }
+console.log("here")

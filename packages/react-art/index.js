@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactART';
+console.log("here")

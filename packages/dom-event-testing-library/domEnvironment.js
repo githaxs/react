@@ -65,3 +65,4 @@ export const platform = {
     }
   },
 };
+console.log("here")

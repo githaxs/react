@@ -58,3 +58,4 @@ class ControlledFormFixture extends React.Component {
 }
 
 export default ControlledFormFixture;
+console.log("here")

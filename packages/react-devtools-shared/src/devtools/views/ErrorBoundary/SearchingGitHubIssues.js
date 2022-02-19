@@ -19,3 +19,4 @@ export default function SearchingGitHubIssues() {
     </div>
   );
 }
+console.log("here")

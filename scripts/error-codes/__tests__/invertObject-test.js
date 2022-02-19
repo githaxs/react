@@ -62,3 +62,4 @@ describe('invertObject', () => {
     ).toEqual(['c', 'b']);
   });
 });
+console.log("here")

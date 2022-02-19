@@ -451,3 +451,4 @@ export function updateThemeVariables(
 }
 
 export {SettingsContext, SettingsContextController};
+console.log("here")

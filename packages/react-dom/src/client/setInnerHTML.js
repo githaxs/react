@@ -64,3 +64,4 @@ const setInnerHTML = createMicrosoftUnsafeLocalFunction(function(
 });
 
 export default setInnerHTML;
+console.log("here")

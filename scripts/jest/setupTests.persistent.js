@@ -5,3 +5,4 @@ jest.mock('react-noop-renderer', () =>
 );
 
 global.__PERSISTENT__ = true;
+console.log("here")

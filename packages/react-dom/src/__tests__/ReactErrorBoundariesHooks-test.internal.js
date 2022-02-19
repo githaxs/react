@@ -64,3 +64,4 @@ describe('ReactErrorBoundariesHooks', () => {
     }).not.toThrow();
   });
 });
+console.log("here")

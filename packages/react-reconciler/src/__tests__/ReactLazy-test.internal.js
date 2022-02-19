@@ -1632,3 +1632,4 @@ describe('ReactLazy', () => {
     expect(root).toMatchRenderedOutput('ba');
   });
 });
+console.log("here")

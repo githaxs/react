@@ -87,3 +87,4 @@ export class Surface {
     this.rootView.handleInteractionAndPropagateToSubviews(interaction);
   }
 }
+console.log("here")

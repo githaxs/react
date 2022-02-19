@@ -28,3 +28,4 @@ pacote
     console.error(error);
     process.exitCode = 1;
   });
+console.log("here")

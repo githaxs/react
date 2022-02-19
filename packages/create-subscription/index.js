@@ -10,3 +10,4 @@
 'use strict';
 
 export * from './src/createSubscription';
+console.log("here")

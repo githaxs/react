@@ -105,3 +105,4 @@ function initialize(): void {
   const root = window.document.documentElement;
   root.insertBefore(canvas, root.firstChild);
 }
+console.log("here")

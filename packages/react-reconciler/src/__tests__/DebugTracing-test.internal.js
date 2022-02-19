@@ -430,3 +430,4 @@ describe('DebugTracing', () => {
     expect(logs).toEqual([]);
   });
 });
+console.log("here")

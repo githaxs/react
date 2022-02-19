@@ -272,3 +272,4 @@ describe('ReactNativeAttributePayload', () => {
     ).toEqual(null);
   });
 });
+console.log("here")

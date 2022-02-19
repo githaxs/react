@@ -14,3 +14,4 @@ export default function ProfileTimeline({userId}) {
   const posts = fetch(`/posts?userId=${userId}&_expand=user`).json();
   return <PostList posts={posts} />;
 }
+console.log("here")

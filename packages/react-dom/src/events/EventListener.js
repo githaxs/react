@@ -58,3 +58,4 @@ export function removeEventListener(
 ): void {
   target.removeEventListener(eventType, listener, capture);
 }
+console.log("here")

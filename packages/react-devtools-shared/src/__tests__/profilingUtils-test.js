@@ -25,3 +25,4 @@ describe('profiling utils', () => {
     ).toThrow('Unsupported profile export version');
   });
 });
+console.log("here")

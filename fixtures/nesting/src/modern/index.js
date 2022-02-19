@@ -13,3 +13,4 @@ ReactDOM.render(
   </StrictMode>,
   document.getElementById('root')
 );
+console.log("here")

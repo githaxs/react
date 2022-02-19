@@ -120,3 +120,4 @@ module.exports = {
   buildBenchmarkBundlesFromGitRepo,
   getMergeBaseFromLocalGitRepo,
 };
+console.log("here")

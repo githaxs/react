@@ -120,3 +120,4 @@ export const ANIMATION_START: DOMEventName = getVendorPrefixedEventName(
 export const TRANSITION_END: DOMEventName = getVendorPrefixedEventName(
   'transitionend',
 );
+console.log("here")

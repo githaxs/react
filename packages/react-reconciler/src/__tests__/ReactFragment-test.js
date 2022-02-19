@@ -914,3 +914,4 @@ describe('ReactFragment', () => {
     expect(ReactNoop.getChildren()).toEqual([span(), div()]);
   });
 });
+console.log("here")

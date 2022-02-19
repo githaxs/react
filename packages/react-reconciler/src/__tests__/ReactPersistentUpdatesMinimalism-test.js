@@ -155,3 +155,4 @@ describe('ReactPersistentUpdatesMinimalism', () => {
     });
   });
 });
+console.log("here")

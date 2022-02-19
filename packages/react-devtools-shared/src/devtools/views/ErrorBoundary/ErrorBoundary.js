@@ -136,3 +136,4 @@ export default class ErrorBoundary extends Component<Props, State> {
     }
   };
 }
+console.log("here")

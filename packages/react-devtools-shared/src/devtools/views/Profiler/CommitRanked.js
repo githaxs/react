@@ -183,3 +183,4 @@ const getNodeIndex = (chartData: ChartData, id: number | null): number => {
   }
   return 0;
 };
+console.log("here")

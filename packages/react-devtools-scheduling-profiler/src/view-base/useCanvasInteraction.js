@@ -190,3 +190,4 @@ export function useCanvasInteraction(
     };
   }, [canvasRef, interactor]);
 }
+console.log("here")

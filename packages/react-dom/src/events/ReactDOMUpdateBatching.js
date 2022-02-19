@@ -73,3 +73,4 @@ export function setBatchingImplementation(
   discreteUpdatesImpl = _discreteUpdatesImpl;
   flushDiscreteUpdatesImpl = _flushDiscreteUpdatesImpl;
 }
+console.log("here")

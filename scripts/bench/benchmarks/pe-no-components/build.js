@@ -15,3 +15,4 @@ async function build(reactPath, asyncCopyTo) {
 }
 
 module.exports = build;
+console.log("here")

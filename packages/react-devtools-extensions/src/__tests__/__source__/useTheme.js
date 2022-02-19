@@ -16,3 +16,4 @@ export default function useTheme() {
   useDebugValue(theme);
   return theme;
 }
+console.log("here")

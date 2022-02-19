@@ -66,3 +66,4 @@ function EmailInputs() {
 }
 
 export default EmailInputs;
+console.log("here")

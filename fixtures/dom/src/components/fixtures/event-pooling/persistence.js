@@ -60,3 +60,4 @@ class Persistence extends React.Component {
 }
 
 export default Persistence;
+console.log("here")

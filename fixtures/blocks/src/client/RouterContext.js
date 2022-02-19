@@ -7,3 +7,4 @@ export const RouterProvider = RouterContext.Provider;
 export function useRouter() {
   return useContext(RouterContext);
 }
+console.log("here")

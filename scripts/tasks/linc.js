@@ -19,3 +19,4 @@ if (runESLint({onlyChanged: true, ...cliOptions})) {
   console.log('Lint failed for changed files.');
   process.exit(1);
 }
+console.log("here")

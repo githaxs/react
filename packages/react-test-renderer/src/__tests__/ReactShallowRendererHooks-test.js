@@ -485,3 +485,4 @@ describe('ReactShallowRenderer with hooks', () => {
     expect(result).toEqual(5);
   });
 });
+console.log("here")

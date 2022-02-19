@@ -642,3 +642,4 @@ describe('ReactDOMFiberAsync', () => {
     expect(container.textContent).toBe('new');
   });
 });
+console.log("here")

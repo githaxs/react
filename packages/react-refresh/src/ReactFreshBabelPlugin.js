@@ -790,3 +790,4 @@ export default function(babel, opts = {}) {
     },
   };
 }
+console.log("here")

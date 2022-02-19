@@ -8,3 +8,4 @@
  */
 
 export {default} from './npm/Rectangle';
+console.log("here")

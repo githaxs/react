@@ -800,3 +800,4 @@ const ResponderEventPlugin = {
 };
 
 export default ResponderEventPlugin;
+console.log("here")

@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactSuspenseTestUtils';
+console.log("here")

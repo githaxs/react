@@ -72,3 +72,4 @@ export function requireModule<T>(moduleData: ModuleReference<T>): T {
   }
   return moduleExports[moduleData.name];
 }
+console.log("here")

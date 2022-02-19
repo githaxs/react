@@ -309,3 +309,4 @@ export class ResizableSplitView extends View {
     }
   }
 }
+console.log("here")

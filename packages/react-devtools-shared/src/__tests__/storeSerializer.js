@@ -19,3 +19,4 @@ export function print(store, serialize, indent) {
 // Used for Jest snapshot testing.
 // May also be useful for visually debugging the tree, so it lives on the Store.
 export {printStore};
+console.log("here")

@@ -4,3 +4,4 @@ require(['react', 'react-dom'], function(React, ReactDOM) {
     document.getElementById('container')
   );
 });
+console.log("here")

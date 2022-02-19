@@ -17,3 +17,4 @@ export {
   IdleEventPriority,
 } from './ReactEventPriorities';
 export {ConcurrentRoot, LegacyRoot} from './ReactRootTags';
+console.log("here")

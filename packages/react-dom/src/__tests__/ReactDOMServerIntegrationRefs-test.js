@@ -121,3 +121,4 @@ describe('ReactDOMServerIntegration', () => {
     expect(divRef.current.textContent).toBe('hello');
   });
 });
+console.log("here")

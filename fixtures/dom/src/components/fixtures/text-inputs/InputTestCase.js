@@ -57,3 +57,4 @@ class InputTestCase extends React.Component {
 }
 
 export default InputTestCase;
+console.log("here")

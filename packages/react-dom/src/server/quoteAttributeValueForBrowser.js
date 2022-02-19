@@ -18,3 +18,4 @@ function quoteAttributeValueForBrowser(value) {
 }
 
 export default quoteAttributeValueForBrowser;
+console.log("here")

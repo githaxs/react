@@ -520,3 +520,4 @@ if (enableCache) {
   Dispatcher.getCacheForType = getCacheForType;
   Dispatcher.useCacheRefresh = useCacheRefresh;
 }
+console.log("here")

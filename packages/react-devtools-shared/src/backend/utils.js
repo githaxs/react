@@ -222,3 +222,4 @@ export function isSynchronousXHRSupported(): boolean {
     window.document.featurePolicy.allowsFeature('sync-xhr')
   );
 }
+console.log("here")

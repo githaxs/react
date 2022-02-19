@@ -23,3 +23,4 @@ if (runESLint({onlyChanged: false, ...cliOptions})) {
   console.log('Lint failed.');
   process.exit(1);
 }
+console.log("here")

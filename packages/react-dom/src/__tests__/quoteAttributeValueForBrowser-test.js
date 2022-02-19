@@ -72,3 +72,4 @@ describe('quoteAttributeValueForBrowser', () => {
     );
   });
 });
+console.log("here")

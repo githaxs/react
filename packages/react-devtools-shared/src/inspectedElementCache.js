@@ -197,3 +197,4 @@ export function clearCacheBecauseOfError(refresh: RefreshFunction): void {
     refresh(createMap, map);
   });
 }
+console.log("here")

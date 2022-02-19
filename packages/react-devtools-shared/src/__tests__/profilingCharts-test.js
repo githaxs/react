@@ -161,3 +161,4 @@ describe('profiling charts', () => {
     });
   });
 });
+console.log("here")

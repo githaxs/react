@@ -11,3 +11,4 @@ module.exports = async ({reactVersion, tempDirectory, version}) => {
     theme`Updating version numbers ({version ${version}})`
   );
 };
+console.log("here")

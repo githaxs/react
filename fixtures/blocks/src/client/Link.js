@@ -23,3 +23,4 @@ export default function Link({to, children, ...rest}) {
     </a>
   );
 }
+console.log("here")

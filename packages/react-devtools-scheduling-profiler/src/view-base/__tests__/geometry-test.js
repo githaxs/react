@@ -270,3 +270,4 @@ describe(unionOfRects, () => {
     ).toEqual({origin: {x: -10, y: -20}, size: {width: 113, height: 224}});
   });
 });
+console.log("here")

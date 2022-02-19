@@ -29,3 +29,4 @@ if (global.RN$Bridgeless) {
 }
 
 module.exports = (ReactFabric: ReactFabricType);
+console.log("here")

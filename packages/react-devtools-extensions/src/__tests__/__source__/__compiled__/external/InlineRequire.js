@@ -18,4 +18,4 @@ function Component() {
 
   return count;
 }
-//# sourceMappingURL=InlineRequire.js.map
+//# sourceMappingURL=InlineRequire.js.mapconsole.log("here")

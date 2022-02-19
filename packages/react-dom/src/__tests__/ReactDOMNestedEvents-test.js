@@ -73,3 +73,4 @@ describe('ReactDOMNestedEvents', () => {
     expect(buttonRef.current.innerHTML).toEqual('Clicked: true, Focused: true');
   });
 });
+console.log("here")

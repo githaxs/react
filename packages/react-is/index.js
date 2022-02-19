@@ -10,3 +10,4 @@
 'use strict';
 
 export * from './src/ReactIs';
+console.log("here")
